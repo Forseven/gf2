@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IHRlc3Qy?=
+From: django@geekshop.local
+To: test2@dsa.ru
+Date: Fri, 18 Jun 2021 16:33:23 -0000
+Message-ID: <162403400337.21186.15461624743139107048@fors-VirtualBox>
+
+Для подтверждения учетной записи test2 на портале     http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/test2@dsa.ru/85f99edc239d466c3c1d83b5e9cebcc23d75f8b5/
+-------------------------------------------------------------------------------

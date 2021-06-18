@@ -76,7 +76,7 @@ def products(request, pk=None, page=1):
             'links_menu': links_menu,
             'category': category,
             'products': products_paginator,
-            'basket': basket,
+
         }
         
         return render(request, 'mainapp/products_list.html', content)
@@ -89,7 +89,7 @@ def products(request, pk=None, page=1):
         'links_menu': links_menu, 
         'hot_product': hot_product,
         'same_products': same_products,
-        'basket': basket,
+
     }
     
     return render(request, 'mainapp/products.html', content)
