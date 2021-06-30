@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'authapp',
     'basketapp',
     'adminapp',
-    'social_django'
+    'social_django',
+    'ordersapp'
 ]
 
 MIDDLEWARE = [
@@ -161,7 +162,7 @@ EMAIL_FILE_PATH = 'tmp/email-messages/'
 LOGIN_ERROR_URL = '/'
 
 SOCIAL_AUTH_VK_OAUTH2_KEY = '7887981'
-SOCIAL_AUTH_VK_OAUTH2_SECRET = ''
+SOCIAL_AUTH_VK_OAUTH2_SECRET = 'gdGNVvtPpvbQSWtJPEPJ'
 
 SOCIAL_AUTH_VK_OAUTH2_IGNORE_DEFAULT_SCOPE = True
 SOCIAL_AUTH_VK_OAUTH2_SCOPE = ['email']

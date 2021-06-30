@@ -1,3 +1,6 @@
+from django.contrib import messages
+from django.db import transaction, DatabaseError
+from django.forms import inlineformset_factory, formset_factory, modelformset_factory
 from django.shortcuts import render, get_object_or_404, HttpResponseRedirect
 from django.contrib.auth.decorators import user_passes_test
 from django.urls import reverse
@@ -9,6 +12,9 @@ from django.utils.decorators import method_decorator
 from django.urls import reverse_lazy
 from django.views.generic.list import ListView
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
+
+from ordersapp.models import Order, OrderItem
+from ordersapp.forms import OrderItemForm, OrderForm
 
 from django.views.generic.detail import DetailView
 
@@ -194,3 +200,44 @@ def product_delete(request, pk):
     }
     
     return render(request, 'adminapp/product_delete.html', content)
+
+
+@user_passes_test(lambda u: u.is_superuser)
+def orders(request):
+    title = 'админка/Orders'
+
+    orders_list = Order.objects.all()
+    print(orders_list)
+    content = {
+        'title': title,
+        'objects': orders_list
+    }
+
+    return render(request, 'adminapp/orders.html', content)
+
+
+def OrderItemsUpdate(request, pk):
+    title = 'админка/Orders'
+
+    edit_order = get_object_or_404(Order, pk=pk)
+
+    if request.method == 'POST':
+        edit_form = OrderForm(request.POST, request.FILES, instance=edit_order)
+        if edit_form.is_valid():
+            edit_form.save()
+            return HttpResponseRedirect(reverse('admin:orders'))
+    else:
+        edit_form = ProductEditForm(instance=edit_order)
+
+    content = {'title': title, 'update_form': edit_form, 'orderitems': edit_order}
+
+    return render(request, 'adminapp/order_form.html', content)
+
+
+class OrderRead(DetailView):
+    model = Order
+
+    def get_context_data(self, **kwargs):
+        context = super(OrderRead, self).get_context_data(**kwargs)
+        context['title'] = 'заказ/просмотр'
+        return context
