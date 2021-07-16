@@ -1,0 +1,12 @@
+/                       5 запросов
+'/products/'            10 запросов including 3 similar and 3 duplicates
+
+'/products/category/1/' 8 запросов
+
+'/basket/'              13 запросов including 10 similar and 10 duplicates
+
+'/order/'               4 запроса
+
+'/order/update/5/'      66 запросов including 61 similar and 59 duplicates
+
+
