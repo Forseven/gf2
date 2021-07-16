@@ -10,8 +10,8 @@ JSON_PATH = 'mainapp/json'
 
 
 def load_from_json(file_name):
-    with open(os.path.join(JSON_PATH, file_name + '.json'), 'r') as infile:
-        return json.load(infile)
+   with open(os.path.join(JSON_PATH, file_name + '.json'), 'r',errors='ignore') as infile:
+       return json.load(infile)
 
 
 def get_basket(user):
@@ -35,16 +35,16 @@ def get_same_products(hot_product):
 
         
 def main(request):
-    title = 'главная'  
-    products = Product.objects.filter(is_active=True, category__is_active=True)[:3]
-    
-    content = {
-        'title': title,
-        'products': products,
-        'basket': get_basket(request.user),
-    }
-    
-    return render(request, 'mainapp/index.html', content)
+   title = 'главная'
+
+   products = Product.objects.filter(is_active=True, category__is_active=True).select_related('category')[:3]
+
+   content = {
+       'title': title,
+       'products': products,
+   }
+
+   return render(request, 'mainapp/index.html', content)
     
 
 def products(request, pk=None, page=1):   
