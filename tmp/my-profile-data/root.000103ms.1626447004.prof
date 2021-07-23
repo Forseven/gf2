@@ -1,0 +1,6850 @@
+events: Ticks
+summary: 103
+fn=<method 'values' of 'collections.OrderedDict' objects>
+0  0
+
+fn=<method 'values' of 'mappingproxy' objects>
+0  0
+
+fn=<method 'isdisjoint' of 'frozenset' objects>
+0  0
+
+fn=<method 'add' of 'set' objects>
+0  0
+
+fn=<method '__contains__' of 'dict' objects>
+0  0
+
+fn=<method 'get' of 'dict' objects>
+0  0
+
+fn=<method 'setdefault' of 'dict' objects>
+0  0
+
+fn=<method 'items' of 'dict' objects>
+0  0
+
+fn=<method 'values' of 'dict' objects>
+0  0
+
+fn=<method 'update' of 'dict' objects>
+0  0
+
+fn=<method 'clear' of 'dict' objects>
+0  0
+
+fn=<method 'copy' of 'dict' objects>
+0  0
+
+fn=<built-in method from_bytes>
+0  0
+
+fn=<method 'append' of 'list' objects>
+0  0
+
+fn=<method 'insert' of 'list' objects>
+0  0
+
+fn=<method 'extend' of 'list' objects>
+0  0
+cfl=<frozen importlib._bootstrap_external>
+cfn=<genexpr>
+calls=16 1202
+0 0
+
+fn=<method 'pop' of 'list' objects>
+0  0
+
+fn=<method 'reverse' of 'list' objects>
+0  0
+
+fn=<method 'decode' of 'bytes' objects>
+0  0
+
+fn=<method 'find' of 'bytes' objects>
+0  0
+
+fn=<method 'rstrip' of 'bytes' objects>
+0  0
+
+fn=<method 'startswith' of 'bytes' objects>
+0  0
+
+fn=<method 'find' of 'bytearray' objects>
+0  0
+
+fn=<method 'encode' of 'str' objects>
+0  0
+
+fn=<method 'replace' of 'str' objects>
+0  0
+
+fn=<method 'split' of 'str' objects>
+0  0
+
+fn=<method 'rsplit' of 'str' objects>
+0  0
+
+fn=<method 'join' of 'str' objects>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+cfn=<genexpr>
+calls=3 46
+0 0
+
+fn=<method 'title' of 'str' objects>
+0  0
+
+fn=<method 'count' of 'str' objects>
+0  0
+
+fn=<method 'find' of 'str' objects>
+0  0
+
+fn=<method 'partition' of 'str' objects>
+0  0
+
+fn=<method 'lower' of 'str' objects>
+0  0
+
+fn=<method 'lstrip' of 'str' objects>
+0  0
+
+fn=<method 'rfind' of 'str' objects>
+0  0
+
+fn=<method 'rstrip' of 'str' objects>
+0  0
+
+fn=<method 'rpartition' of 'str' objects>
+0  0
+
+fn=<method 'splitlines' of 'str' objects>
+0  0
+
+fn=<method 'strip' of 'str' objects>
+0  0
+
+fn=<method 'translate' of 'str' objects>
+0  3
+
+fn=<method 'upper' of 'str' objects>
+0  0
+
+fn=<method 'startswith' of 'str' objects>
+0  0
+
+fn=<method 'endswith' of 'str' objects>
+0  0
+
+fn=<method 'isupper' of 'str' objects>
+0  0
+
+fn=<method 'isdigit' of 'str' objects>
+0  0
+
+fn=<method 'isidentifier' of 'str' objects>
+0  0
+
+fn=<method 'format' of 'str' objects>
+0  0
+
+fn=<method 'read' of '_io.FileIO' objects>
+0  0
+
+fn=<method 'close' of '_io.BufferedReader' objects>
+0  2
+
+fn=<method 'read' of '_io.BufferedReader' objects>
+0  0
+
+fn=<method 'readline' of '_io.BufferedReader' objects>
+0  0
+
+fn=<method 'seek' of '_io.BufferedReader' objects>
+0  0
+
+fn=<method 'decode' of '_io.IncrementalNewlineDecoder' objects>
+0  0
+
+fn=<method 'write' of '_io.TextIOWrapper' objects>
+0  0
+
+fn=<method 'read' of '_io.TextIOWrapper' objects>
+0  0
+cfl=/usr/lib/python3.6/codecs.py
+cfn=decode
+calls=1 318
+0 0
+
+fn=<method 'flush' of '_io.TextIOWrapper' objects>
+0  0
+
+fn=<built-in method time.time>
+0  0
+
+fn=<method 'getvalue' of '_io.StringIO' objects>
+0  0
+
+fn=<method 'write' of '_io.StringIO' objects>
+0  0
+
+fn=<built-in method posix.stat>
+0  4
+
+fn=<built-in method posix.listdir>
+0  0
+
+fn=<built-in method posix.getpid>
+0  0
+
+fn=<built-in method posix.open>
+0  0
+
+fn=<built-in method posix.fspath>
+0  0
+
+fn=<method 'readlines' of '_io._IOBase' objects>
+0  1
+cfl=/usr/lib/python3.6/codecs.py
+cfn=decode
+calls=44 318
+0 0
+
+fn=<method 'readline' of '_io.BytesIO' objects>
+0  0
+
+fn=<built-in method _sre.compile>
+0  0
+
+fn=<method 'group' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'start' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'end' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'span' of '_sre.SRE_Match' objects>
+0  0
+
+fn=<method 'match' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<method 'search' of '_sre.SRE_Pattern' objects>
+0  1
+
+fn=<method 'sub' of '_sre.SRE_Pattern' objects>
+0  0
+cfl=/usr/lib/python3.6/re.py
+cfn=_subx
+calls=7 324
+0 0
+
+fn=<method 'findall' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<method 'split' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<method 'finditer' of '_sre.SRE_Pattern' objects>
+0  0
+
+fn=<built-in method _struct.calcsize>
+0  0
+
+fn=<built-in method _struct.unpack>
+0  0
+
+fn=<built-in method _thread.allocate_lock>
+0  0
+
+fn=<built-in method _thread.get_ident>
+0  0
+
+fn=<method 'acquire' of '_thread.RLock' objects>
+0  0
+
+fn=<method 'release' of '_thread.RLock' objects>
+0  0
+
+fn=<built-in method io.open>
+0  7
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=_opener
+calls=1 1035
+0 0
+cfl=/usr/lib/python3.6/_bootlocale.py
+cfn=getpreferredencoding
+calls=1 23
+0 0
+cfl=/usr/lib/python3.6/codecs.py
+cfn=__init__
+calls=1 308
+0 0
+
+fn=<built-in method _locale.nl_langinfo>
+0  0
+
+fn=<method 'clear' of 'collections.deque' objects>
+0  0
+
+fn=<built-in method utcnow>
+0  0
+
+fn=<built-in method fromtimestamp>
+0  0
+
+fn=<method 'utcoffset' of 'datetime.datetime' objects>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=utcoffset
+calls=1 396
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=utcoffset
+calls=2 223
+0 0
+
+fn=<method 'replace' of 'datetime.datetime' objects>
+0  0
+
+fn=<method 'astimezone' of 'datetime.datetime' objects>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=fromutc
+calls=1 193
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=utcoffset
+calls=1 223
+0 0
+
+fn=<method 'weekday' of 'datetime.date' objects>
+0  0
+
+fn=<built-in method _bisect.bisect_right>
+0  0
+
+fn=<built-in method _codecs.lookup>
+0  0
+
+fn=<built-in method _codecs.utf_8_decode>
+0  0
+
+fn=<built-in method _imp.acquire_lock>
+0  0
+
+fn=<built-in method _imp.release_lock>
+0  0
+
+fn=<built-in method _imp.is_frozen>
+0  0
+
+fn=<built-in method _imp._fix_co_filename>
+0  0
+
+fn=<built-in method marshal.loads>
+0  0
+
+fn=<built-in method builtins.__build_class__>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+cfn=PickleSerializer
+calls=1 6
+0 0
+
+fn=<built-in method builtins.abs>
+0  0
+
+fn=<built-in method builtins.any>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/inspect.py
+cfn=<genexpr>
+calls=2 38
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=<genexpr>
+calls=2 109
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=<genexpr>
+calls=1 380
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=<genexpr>
+calls=72 90
+0 0
+cfl=<frozen importlib._bootstrap>
+cfn=<genexpr>
+calls=12 321
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=<genexpr>
+calls=4 602
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=<genexpr>
+calls=1584 236
+0 0
+
+fn=<built-in method builtins.callable>
+0  0
+
+fn=<built-in method builtins.delattr>
+0  0
+
+fn=<built-in method builtins.dir>
+0  13
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=inner
+calls=1 254
+0 0
+
+fn=<built-in method builtins.exec>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/locale/ru/__init__.py
+cfn=<module>
+calls=1 1
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/locale/ru/formats.py
+cfn=<module>
+calls=1 5
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+cfn=<module>
+calls=1 1
+0 0
+
+fn=<built-in method builtins.getattr>
+0  1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=DEFAULT_CONTENT_TYPE
+calls=1 118
+0 4
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=FILES
+calls=1 121
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=FILE_CHARSET
+calls=1 132
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=102 76
+0 0
+
+fn=<built-in method builtins.hasattr>
+0  1
+
+fn=<built-in method builtins.id>
+0  0
+
+fn=<built-in method builtins.isinstance>
+0  1
+
+fn=<built-in method builtins.issubclass>
+0  0
+
+fn=<built-in method builtins.iter>
+0  0
+
+fn=<built-in method builtins.len>
+0  0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__len__
+calls=4 159
+0 0
+
+fn=<built-in method builtins.max>
+0  0
+
+fn=<built-in method builtins.min>
+0  0
+
+fn=<built-in method builtins.next>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=push_state
+calls=2 201
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=bind_template
+calls=2 148
+0 0
+
+fn=<built-in method builtins.ord>
+0  0
+
+fn=<built-in method builtins.repr>
+0  0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=__repr__
+calls=1 44
+0 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=__repr__
+calls=4 65
+0 0
+
+fn=<built-in method builtins.setattr>
+0  0
+
+fn=<built-in method builtins.sorted>
+0  0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_safe_tuple
+calls=73 94
+0 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=__lt__
+calls=122 87
+0 0
+
+fn=<built-in method __new__ of type object at 0x9d12c0>
+0  0
+
+fn=<built-in method sys.exc_info>
+0  0
+
+fn=<built-in method sys.getrecursionlimit>
+0  0
+
+fn=<built-in method sys._getframe>
+0  0
+
+fn=<built-in method sys.intern>
+0  0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/locale/ru/__init__.py
+fn=<module>
+1 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/locale/ru/formats.py
+fn=<module>
+5 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+fn=PickleSerializer
+6 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/serializers.py
+fn=<module>
+1 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=1 997
+1 0
+cfn=<built-in method builtins.__build_class__>
+calls=1 0
+1 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/security.py
+fn=process_request
+20 0
+cfn=<method 'lstrip' of 'str' objects>
+calls=1 0
+20 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/security.py
+fn=process_response
+30 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+fn=process_request
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__get__
+calls=1 72
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py
+cfn=__init__
+calls=1 16
+18 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+18 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+fn=process_response
+22 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=is_empty
+calls=1 141
+22 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/common.py
+fn=process_request
+34 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+34 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_host
+calls=1 93
+34 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=__init__
+44 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+44 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_set_session_key
+calls=1 170
+44 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/module_loading.py
+cfn=import_string
+calls=1 7
+44 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=is_empty
+141 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_get_session_key
+calls=1 167
+141 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_validate_session_key
+160 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_get_session_key
+167 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+fn=_set_session_key
+170 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=_validate_session_key
+calls=1 160
+170 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/db.py
+fn=__init__
+16 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/backends/base.py
+cfn=__init__
+calls=1 44
+16 0
+
+fn=<method 'disable' of '_lsprof.Profiler' objects>
+0  0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/panels/logging.py
+fn=collect
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/utils.py
+cfn=collect
+calls=2 266
+18 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+18 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/panels/logging.py
+fn=emit
+31 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getMessage
+calls=2 329
+31 0
+cfn=<built-in method fromtimestamp>
+calls=2 0
+31 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/panels/logging.py
+cfn=collect
+calls=2 18
+31 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/test/utils.py
+fn=instrumented_test_render
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=1 933
+90 79
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=send
+calls=1 152
+90 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/utils.py
+fn=get_collection
+249 0
+cfl=/usr/lib/python3.6/threading.py
+cfn=current_thread
+calls=2 1230
+249 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/utils.py
+fn=collect
+266 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/utils.py
+cfn=get_collection
+calls=2 249
+266 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+266 0
+
+fl=/usr/lib/python3.6/wsgiref/headers.py
+fn=__init__
+31 0
+cfl=/usr/lib/python3.6/wsgiref/headers.py
+cfn=_convert_string_type
+calls=2 41
+31 0
+
+fl=/usr/lib/python3.6/wsgiref/util.py
+fn=is_hop_by_hop
+163 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+163 0
+cfn=<method '__contains__' of 'dict' objects>
+calls=1 0
+163 0
+
+fl=/usr/lib/python3.6/wsgiref/headers.py
+fn=_convert_string_type
+41 0
+
+fl=/usr/lib/python3.6/wsgiref/handlers.py
+fn=start_response
+212 0
+cfl=/usr/lib/python3.6/wsgiref/headers.py
+cfn=__init__
+calls=1 31
+212 0
+cfl=/usr/lib/python3.6/wsgiref/handlers.py
+cfn=_convert_string_type
+calls=3 240
+212 0
+cfn=<method 'isdigit' of 'str' objects>
+calls=1 0
+212 0
+cfl=/usr/lib/python3.6/wsgiref/util.py
+cfn=is_hop_by_hop
+calls=1 163
+212 0
+cfn=<built-in method builtins.len>
+calls=1 0
+212 0
+
+fl=/usr/lib/python3.6/wsgiref/handlers.py
+fn=_convert_string_type
+240 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+fn=_should_handle
+34 0
+cfn=<method 'startswith' of 'str' objects>
+calls=1 0
+34 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+fn=__call__
+63 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py
+cfn=_should_handle
+calls=1 34
+63 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__call__
+calls=1 137
+63 103
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_path_info
+calls=1 156
+63 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+fn=inner
+31 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+cfn=response_for_exception
+calls=1 41
+31 102
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/deprecation.py
+cfn=__call__
+calls=3 90
+31 102
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+fn=response_for_exception
+41 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getLogger
+calls=1 1838
+41 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=error
+calls=1 1327
+41 0
+cfn=<built-in method sys.exc_info>
+calls=1 0
+41 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=technical_500_response
+calls=1 84
+41 102
+cfn=<built-in method builtins.getattr>
+calls=1 0
+41 0
+cfn=<built-in method builtins.isinstance>
+calls=5 0
+41 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__init__
+19 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__init__
+67 0
+cfn=<method 'rstrip' of 'str' objects>
+calls=1 0
+67 0
+cfn=<method 'replace' of 'str' objects>
+calls=1 0
+67 0
+cfn=<method 'upper' of 'str' objects>
+calls=1 0
+67 0
+cfl=/usr/lib/python3.6/cgi.py
+cfn=parse_header
+calls=1 313
+67 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__init__
+calls=1 19
+67 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_script_name
+calls=1 163
+67 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_path_info
+calls=1 156
+67 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+67 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=_get_scheme
+99 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+99 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=GET
+102 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=__init__
+calls=1 410
+102 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=1 194
+102 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=_get_post
+108 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=_load_post_and_files
+calls=1 298
+108 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+108 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=COOKIES
+116 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_str_from_wsgi
+calls=1 207
+116 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/cookie.py
+cfn=parse_cookie
+calls=1 10
+116 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=FILES
+121 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+121 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=<genexpr>
+148 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=__call__
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=<genexpr>
+calls=1 148
+137 0
+cfl=/usr/lib/python3.6/wsgiref/handlers.py
+cfn=start_response
+calls=1 212
+137 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=__init__
+calls=1 67
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/base.py
+cfn=get_response
+calls=1 71
+137 103
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_script_name
+calls=1 163
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/urls/base.py
+cfn=set_script_prefix
+calls=1 102
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=send
+calls=1 152
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=reason_phrase
+calls=1 64
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=items
+calls=1 152
+137 0
+cfn=<method 'values' of 'dict' objects>
+calls=1 0
+137 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_script_name
+163 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=6 194
+163 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+163 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_bytes_from_wsgi
+194 0
+cfn=<method 'get' of 'dict' objects>
+calls=10 0
+194 0
+cfn=<method 'encode' of 'str' objects>
+calls=10 0
+194 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_str_from_wsgi
+207 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=1 194
+207 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=1 0
+207 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+fn=get_path_info
+156 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=get_bytes_from_wsgi
+calls=2 194
+156 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=repercent_broken_unicode
+calls=2 222
+156 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+156 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/base.py
+fn=get_response
+71 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/urls/base.py
+cfn=set_urlconf
+calls=1 130
+71 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+cfn=inner
+calls=1 31
+71 102
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+71 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=reason_phrase
+calls=1 64
+71 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+cfn=log_response
+calls=1 199
+71 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/six.py
+fn=find_spec
+194 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/operations.py
+fn=__init__
+52 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/introspection.py
+fn=__init__
+14 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+fn=__init__
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/features.py
+cfn=__init__
+calls=1 288
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/introspection.py
+cfn=__init__
+calls=1 14
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/operations.py
+cfn=__init__
+calls=1 52
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/validation.py
+cfn=__init__
+calls=1 3
+47 0
+cfn=<built-in method _thread.allocate_lock>
+calls=1 0
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/client.py
+cfn=__init__
+calls=1 7
+47 0
+cfn=<built-in method _thread.get_ident>
+calls=1 0
+47 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/creation.py
+cfn=__init__
+calls=1 20
+47 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+fn=close_if_unusable_or_obsolete
+492 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/validation.py
+fn=__init__
+3 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/client.py
+fn=__init__
+7 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/creation.py
+fn=__init__
+20 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/features.py
+fn=__init__
+288 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/urllib3/packages/six.py
+fn=find_spec
+190 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=__init__
+136 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=render
+155 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__contains__
+calls=16 89
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__enter__
+calls=16 20
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__setitem__
+calls=330 62
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__exit__
+calls=16 23
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render_annotated
+calls=1714 896
+155 42
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=16 668
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__getitem__
+calls=12 78
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=push
+calls=16 48
+155 0
+cfn=<method 'join' of 'str' objects>
+calls=16 0
+155 0
+cfn=<built-in method builtins.len>
+calls=32 0
+155 0
+cfn=<built-in method builtins.hasattr>
+calls=16 0
+155 0
+cfn=<method 'append' of 'list' objects>
+calls=1714 0
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=16 71
+155 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=__init__
+222 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=<listcomp>
+235 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=8 668
+235 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=render
+226 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=_get_context_stack_frame
+calls=8 249
+226 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=<listcomp>
+calls=8 235
+226 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=2 933
+226 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=8 0
+226 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=_get_context_stack_frame
+249 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__contains__
+calls=8 89
+249 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__getitem__
+calls=8 78
+249 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=__init__
+283 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=render
+297 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=eval
+calls=41 875
+297 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=eval
+calls=8 81
+297 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=eval
+calls=9 56
+297 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=51 933
+297 26
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=do_for
+729 0
+cfn=<method 'join' of 'str' objects>
+calls=17 0
+729 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=parse
+calls=17 426
+729 4
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=next_token
+calls=17 546
+729 0
+cfn=<built-in method builtins.len>
+calls=17 0
+729 0
+cfn=<method 'isdisjoint' of 'frozenset' objects>
+calls=21 0
+729 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=__init__
+calls=17 136
+729 0
+cfl=/usr/lib/python3.6/re.py
+cfn=split
+calls=17 204
+729 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=split_contents
+calls=17 317
+729 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=compile_filter
+calls=17 559
+729 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=__init__
+868 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=eval
+875 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=67 668
+875 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=__init__
+882 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=__init__
+calls=47 153
+882 1
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=create_var
+886 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=compile_filter
+calls=53 559
+886 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=__init__
+calls=53 868
+886 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=do_if
+890 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=parse
+calls=64 426
+890 8
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=next_token
+calls=64 546
+890 0
+cfn=<method 'startswith' of 'str' objects>
+calls=47 0
+890 0
+cfn=<method 'append' of 'list' objects>
+calls=17 0
+890 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=split_contents
+calls=47 317
+890 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=__init__
+calls=47 882
+890 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=parse
+calls=47 189
+890 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=__init__
+calls=47 283
+890 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=<listcomp>
+1015 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=compile_filter
+calls=2 559
+1015 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+fn=ifchanged
+977 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=parse
+calls=2 426
+977 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=next_token
+calls=2 546
+977 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=<listcomp>
+calls=2 1015
+977 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=__init__
+calls=2 222
+977 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=split_contents
+calls=2 317
+977 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=led
+51 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=expression
+calls=6 197
+51 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=eval
+56 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=<lambda>
+calls=9 95
+56 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=nud
+76 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=expression
+calls=7 197
+76 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=eval
+81 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=<lambda>
+calls=16 96
+81 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=<lambda>
+95 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=eval
+calls=10 875
+95 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=eval
+calls=8 81
+95 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=<lambda>
+96 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=eval
+calls=16 875
+96 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=nud
+130 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=__init__
+153 0
+cfn=<built-in method builtins.len>
+calls=47 0
+153 0
+cfn=<method 'append' of 'list' objects>
+calls=66 0
+153 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=translate_token
+calls=66 173
+153 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=next_token
+calls=47 181
+153 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=translate_token
+173 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=create_var
+calls=53 886
+173 1
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=next_token
+181 0
+cfn=<built-in method builtins.len>
+calls=113 0
+181 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=parse
+189 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=expression
+calls=47 197
+189 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+fn=expression
+197 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=led
+calls=6 51
+197 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=next_token
+calls=66 181
+197 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=nud
+calls=53 130
+197 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/smartif.py
+cfn=nud
+calls=7 76
+197 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=_get_lines_from_file
+343 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_source
+calls=4 725
+343 0
+cfn=<method 'splitlines' of 'str' objects>
+calls=4 0
+343 0
+cfn=<built-in method builtins.max>
+calls=4 0
+343 0
+cfn=<built-in method builtins.hasattr>
+calls=4 0
+343 0
+cfn=<built-in method builtins.isinstance>
+calls=4 0
+343 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=explicit_or_implicit_cause
+389 0
+cfn=<built-in method builtins.getattr>
+calls=10 0
+389 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_traceback_frames
+388 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=explicit_or_implicit_cause
+calls=5 389
+388 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=_get_lines_from_file
+calls=4 343
+388 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_traceback_frame_variables
+calls=4 193
+388 0
+cfn=<method 'pop' of 'list' objects>
+calls=1 0
+388 0
+cfn=<built-in method builtins.getattr>
+calls=4 0
+388 0
+cfn=<method 'startswith' of 'str' objects>
+calls=4 0
+388 0
+cfn=<built-in method builtins.id>
+calls=4 0
+388 0
+cfn=<method 'append' of 'list' objects>
+calls=5 0
+388 0
+cfn=<method 'get' of 'dict' objects>
+calls=12 0
+388 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=_dec
+40 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=force_escape
+calls=3 400
+40 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+40 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=force_escape
+400 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=wrapper
+calls=3 234
+400 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=_property_resolver
+465 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=dictsort
+491 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=_property_resolver
+calls=6 465
+491 0
+cfn=<built-in method builtins.sorted>
+calls=6 0
+491 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=add
+658 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=date
+695 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=date_format
+calls=1 144
+695 3
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+fn=pprint
+901 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=pformat
+calls=259 55
+901 7
+
+fl=/usr/lib/python3.6/pprint.py
+fn=pformat
+55 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=__init__
+calls=259 99
+55 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=pformat
+calls=259 142
+55 6
+
+fl=/usr/lib/python3.6/pprint.py
+fn=__init__
+84 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=__lt__
+87 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_safe_tuple
+94 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=__init__
+calls=146 84
+94 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=__init__
+99 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=pformat
+142 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format
+calls=259 154
+142 5
+cfn=<method 'getvalue' of '_io.StringIO' objects>
+calls=259 0
+142 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_format
+154 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_pprint_tuple
+calls=2 215
+154 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_pprint_dict
+calls=5 180
+154 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_pprint_list
+calls=13 207
+154 1
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_repr
+calls=484 391
+154 3
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=454 0
+154 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_pprint_str
+calls=10 244
+154 0
+cfn=<built-in method builtins.len>
+calls=484 0
+154 0
+cfn=<built-in method builtins.id>
+calls=484 0
+154 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+154 0
+cfn=<method 'get' of 'dict' objects>
+calls=31 0
+154 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_pprint_dict
+180 0
+cfn=<built-in method builtins.sorted>
+calls=5 0
+180 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format_dict_items
+calls=5 333
+180 0
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=10 0
+180 0
+cfn=<built-in method builtins.len>
+calls=5 0
+180 0
+cfn=<method 'items' of 'dict' objects>
+calls=5 0
+180 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_pprint_list
+207 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format_items
+calls=13 350
+207 1
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=26 0
+207 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_pprint_tuple
+215 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format_items
+calls=2 350
+215 0
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=4 0
+215 0
+cfn=<built-in method builtins.len>
+calls=4 0
+215 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_pprint_str
+244 0
+cfn=<method 'splitlines' of 'str' objects>
+calls=10 0
+244 0
+cfn=<built-in method builtins.repr>
+calls=45 0
+244 0
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=18 0
+244 0
+cfl=/usr/lib/python3.6/re.py
+cfn=findall
+calls=10 214
+244 0
+cfn=<method 'pop' of 'list' objects>
+calls=10 0
+244 0
+cfn=<built-in method builtins.len>
+calls=96 0
+244 0
+cfn=<method 'append' of 'list' objects>
+calls=12 0
+244 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_format_dict_items
+333 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format
+calls=22 154
+333 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_repr
+calls=22 391
+333 0
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=61 0
+333 0
+cfn=<built-in method builtins.len>
+calls=27 0
+333 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_format_items
+350 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_format
+calls=203 154
+350 1
+cfn=<method 'write' of '_io.StringIO' objects>
+calls=203 0
+350 0
+cfn=<built-in method builtins.next>
+calls=218 0
+350 0
+cfn=<built-in method builtins.iter>
+calls=15 0
+350 0
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_repr
+391 0
+cfn=<method 'copy' of 'dict' objects>
+calls=506 0
+391 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=format
+calls=506 400
+391 3
+
+fl=/usr/lib/python3.6/pprint.py
+fn=format
+400 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_safe_repr
+calls=506 490
+400 2
+
+fl=/usr/lib/python3.6/pprint.py
+fn=_safe_repr
+490 1
+cfn=<built-in method builtins.sorted>
+calls=14 0
+490 0
+cfn=<built-in method builtins.issubclass>
+calls=897 0
+490 0
+cfl=/usr/lib/python3.6/pprint.py
+cfn=_safe_repr
+calls=700 490
+490 1
+cfn=<built-in method builtins.repr>
+calls=966 0
+490 0
+cfn=<method 'join' of 'str' objects>
+calls=218 0
+490 0
+cfn=<built-in method builtins.getattr>
+calls=251 0
+490 0
+cfn=<built-in method builtins.len>
+calls=184 0
+490 0
+cfn=<method 'startswith' of 'str' objects>
+calls=11 0
+490 0
+cfn=<built-in method builtins.id>
+calls=218 0
+490 0
+cfn=<method 'append' of 'list' objects>
+calls=649 0
+490 0
+cfn=<method 'items' of 'dict' objects>
+calls=14 0
+490 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=cleanse_setting
+48 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=173 0
+48 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=<dictcomp>
+calls=10 58
+48 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=__init__
+calls=1 41
+48 0
+cfn=<built-in method builtins.isinstance>
+calls=163 0
+48 0
+cfn=<method 'items' of 'dict' objects>
+calls=10 0
+48 0
+cfn=<built-in method builtins.callable>
+calls=173 0
+48 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_safe_settings
+72 0
+cfn=<built-in method builtins.dir>
+calls=1 0
+72 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=cleanse_setting
+calls=153 48
+72 1
+cfn=<method 'isupper' of 'str' objects>
+calls=181 0
+72 0
+cfn=<built-in method builtins.getattr>
+calls=153 0
+72 5
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=technical_500_response
+84 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+cfn=items
+calls=2 173
+84 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__init__
+calls=1 288
+84 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=__init__
+calls=1 246
+84 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=is_ajax
+calls=1 230
+84 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_traceback_html
+calls=1 329
+84 101
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_default_exception_reporter_filter
+98 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+98 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/module_loading.py
+cfn=import_string
+calls=1 7
+98 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_exception_reporter_filter
+104 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_default_exception_reporter_filter
+calls=1 98
+104 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+104 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=is_active
+131 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_post_parameters
+154 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=is_active
+calls=1 131
+154 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=_get_post
+calls=1 108
+154 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+154 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=cleanse_special_types
+179 0
+cfn=<built-in method builtins.isinstance>
+calls=14 0
+179 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_traceback_frame_variables
+193 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=is_active
+calls=4 131
+193 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=cleanse_special_types
+calls=14 179
+193 0
+cfn=<method 'items' of 'dict' objects>
+calls=8 0
+193 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=__init__
+246 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_exception_reporter_filter
+calls=1 104
+246 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+246 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_traceback_data
+258 0
+cfn=<built-in method builtins.issubclass>
+calls=2 0
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_traceback_frames
+calls=1 388
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_post_parameters
+calls=1 154
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=pprint
+calls=14 901
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+cfn=items
+calls=1 173
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_safe_settings
+calls=1 72
+258 7
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+cfn=get_version
+calls=1 18
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=now
+calls=1 224
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=FILES
+calls=1 121
+258 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=1 997
+258 0
+cfn=<built-in method builtins.len>
+calls=14 0
+258 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__get__
+calls=1 72
+258 0
+cfn=<method 'append' of 'list' objects>
+calls=14 0
+258 0
+cfn=<method 'items' of 'dict' objects>
+calls=1 0
+258 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=get_traceback_html
+329 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__init__
+calls=1 137
+329 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=1 165
+329 79
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=__new__
+calls=1 998
+329 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=open
+calls=1 1174
+329 0
+cfn=<method 'read' of '_io.TextIOWrapper' objects>
+calls=1 0
+329 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/engine.py
+cfn=from_string
+calls=1 131
+329 12
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=get_traceback_data
+calls=1 258
+329 9
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=__init__
+41 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=__repr__
+44 0
+cfn=<built-in method builtins.repr>
+calls=1 0
+44 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+fn=<dictcomp>
+58 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/views/debug.py
+cfn=cleanse_setting
+calls=20 48
+58 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+fn=filter
+153 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+fn=filter
+158 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+fn=log_response
+199 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+199 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=warning
+calls=1 1310
+199 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=format
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=r
+calls=1 285
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=D
+calls=1 228
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__text_cast
+calls=1 155
+29 0
+cfn=<method 'sub' of '_sre.SRE_Pattern' objects>
+calls=7 0
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=j
+calls=1 253
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=M
+calls=1 269
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=Y
+calls=1 346
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=H
+calls=1 118
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=i
+calls=1 122
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=s
+calls=1 155
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=O
+calls=1 126
+29 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=__str__
+calls=1 57
+29 0
+cfn=<method 'join' of 'str' objects>
+calls=2 0
+29 0
+cfn=<built-in method builtins.getattr>
+calls=9 0
+29 0
+cfn=<method 'append' of 'list' objects>
+calls=16 0
+29 0
+cfn=<method 'split' of '_sre.SRE_Pattern' objects>
+calls=2 0
+29 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=__init__
+46 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=is_naive
+calls=1 251
+46 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+46 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=G
+110 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=H
+118 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=G
+calls=1 110
+118 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=i
+122 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=O
+126 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=Z
+calls=1 184
+126 0
+cfn=<built-in method builtins.abs>
+calls=1 0
+126 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=s
+155 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=Z
+184 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=utcoffset
+calls=1 396
+184 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=D
+228 0
+cfn=<method 'weekday' of 'datetime.date' objects>
+calls=1 0
+228 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=j
+253 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=M
+269 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=__wrapper__
+calls=1 148
+269 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=r
+285 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=format
+calls=1 29
+285 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=Y
+346 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+fn=format
+358 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=__init__
+calls=1 46
+358 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=format
+calls=1 29
+358 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/numberformat.py
+fn=format
+7 0
+cfn=<built-in method builtins.isinstance>
+calls=145 0
+7 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=145 71
+7 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/engine.py
+fn=from_string
+131 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=1 142
+131 12
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+118 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+142 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=1 118
+142 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=compile_nodelist
+calls=1 175
+142 12
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render
+165 0
+cfl=/usr/lib/python3.6/contextlib.py
+cfn=__exit__
+calls=2 85
+165 0
+cfl=/usr/lib/python3.6/contextlib.py
+cfn=helper
+calls=2 157
+165 0
+cfl=/usr/lib/python3.6/contextlib.py
+cfn=__enter__
+calls=2 79
+165 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/test/utils.py
+cfn=instrumented_test_render
+calls=1 90
+165 79
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=compile_nodelist
+175 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=1 334
+175 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=tokenize
+calls=1 383
+175 2
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=1 410
+175 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=parse
+calls=1 426
+175 9
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+289 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=split_contents
+317 0
+cfn=<method 'startswith' of 'str' objects>
+calls=189 0
+317 0
+cfn=<method 'append' of 'list' objects>
+calls=189 0
+317 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/text.py
+cfn=smart_split
+calls=255 318
+317 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+334 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=create_token
+352 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=467 289
+352 0
+cfn=<method 'strip' of 'str' objects>
+calls=248 0
+352 0
+cfn=<method 'startswith' of 'str' objects>
+calls=645 0
+352 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=tokenize
+383 1
+cfn=<method 'finditer' of '_sre.SRE_Pattern' objects>
+calls=1 0
+383 0
+cfn=<method 'span' of '_sre.SRE_Match' objects>
+calls=248 0
+383 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=create_token
+calls=467 352
+383 1
+cfn=<method 'count' of 'str' objects>
+calls=466 0
+383 0
+cfn=<built-in method builtins.len>
+calls=1 0
+383 0
+cfn=<method 'append' of 'list' objects>
+calls=467 0
+383 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=add_library
+calls=3 555
+410 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=parse
+426 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=next_token
+calls=467 546
+426 0
+cfn=<method 'pop' of 'list' objects>
+calls=66 0
+426 0
+cfl=/usr/lib/python3.6/types.py
+cfn=__get__
+calls=864 135
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=219 952
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=extend_nodelist
+calls=384 493
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=do_if
+calls=47 890
+426 9
+cfn=<method 'split' of 'str' objects>
+calls=149 0
+426 0
+cfn=<method 'append' of 'list' objects>
+calls=66 0
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=ifchanged
+calls=2 977
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=do_for
+calls=17 729
+426 5
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=compile_filter
+calls=99 559
+426 2
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=99 979
+426 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=prepend_token
+calls=83 549
+426 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=extend_nodelist
+493 0
+cfn=<method 'append' of 'list' objects>
+calls=384 0
+493 0
+cfn=<built-in method builtins.isinstance>
+calls=768 0
+493 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=next_token
+546 0
+cfn=<method 'pop' of 'list' objects>
+calls=550 0
+546 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=prepend_token
+549 0
+cfn=<method 'insert' of 'list' objects>
+calls=83 0
+549 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=add_library
+555 0
+cfn=<method 'update' of 'dict' objects>
+calls=6 0
+555 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=compile_filter
+559 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=171 624
+559 4
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=find_filter
+565 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+624 0
+cfn=<method 'finditer' of '_sre.SRE_Pattern' objects>
+calls=171 0
+624 0
+cfn=<built-in method builtins.len>
+calls=171 0
+624 0
+cfn=<method 'append' of 'list' objects>
+calls=26 0
+624 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=2 792
+624 0
+cfn=<method 'group' of '_sre.SRE_Match' objects>
+calls=213 0
+624 0
+cfn=<method 'start' of '_sre.SRE_Match' objects>
+calls=192 0
+624 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=__init__
+calls=176 746
+624 2
+cfn=<method 'end' of '_sre.SRE_Match' objects>
+calls=192 0
+624 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=find_filter
+calls=21 565
+624 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=args_check
+calls=21 705
+624 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=resolve
+668 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=date
+calls=1 695
+668 3
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=add
+calls=4 658
+668 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=dictsort
+calls=6 491
+668 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=template_localtime
+calls=1 171
+668 28
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=_dec
+calls=3 40
+668 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaultfilters.py
+cfn=pprint
+calls=245 901
+668 6
+cfn=<built-in method builtins.getattr>
+calls=777 0
+668 0
+cfn=<method 'append' of 'list' objects>
+calls=11 0
+668 0
+cfn=<built-in method builtins.isinstance>
+calls=1103 0
+668 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=5 71
+668 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=861 792
+668 19
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=args_check
+705 0
+cfn=<built-in method builtins.len>
+calls=63 0
+705 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=unwrap
+calls=21 485
+705 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=getfullargspec
+calls=21 1089
+705 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+746 1
+cfn=<method 'lower' of 'str' objects>
+calls=72 0
+746 0
+cfn=<method 'find' of 'str' objects>
+calls=171 0
+746 0
+cfn=<method 'split' of 'str' objects>
+calls=171 0
+746 0
+cfn=<method 'startswith' of 'str' objects>
+calls=173 0
+746 0
+cfn=<built-in method builtins.isinstance>
+calls=176 0
+746 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=2 71
+746 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=wrapper
+calls=173 234
+746 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=resolve
+792 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=_resolve_lookup
+calls=855 816
+792 18
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=_resolve_lookup
+816 3
+cfl=/usr/lib/python3.6/inspect.py
+cfn=getcallargs
+calls=1 1313
+816 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__getitem__
+calls=855 78
+816 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_raw_uri
+calls=2 159
+816 0
+cfn=<built-in method builtins.dir>
+calls=512 0
+816 13
+cfn=<built-in method builtins.getattr>
+calls=536 0
+816 0
+cfn=<built-in method builtins.isinstance>
+calls=1038 0
+816 0
+cfn=<method 'items' of 'dict' objects>
+calls=2 0
+816 0
+cfn=<built-in method builtins.callable>
+calls=1603 0
+816 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render_annotated
+896 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=render
+calls=16 155
+896 44
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=render
+calls=8 226
+896 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=1189 958
+896 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/defaulttags.py
+cfn=render
+calls=58 297
+896 26
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render
+calls=764 985
+896 73
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render
+933 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render_annotated
+calls=321 896
+933 79
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=__str__
+calls=137 57
+933 0
+cfn=<method 'join' of 'str' objects>
+calls=54 0
+933 0
+cfn=<method 'append' of 'list' objects>
+calls=321 0
+933 0
+cfn=<built-in method builtins.isinstance>
+calls=321 0
+933 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=54 71
+933 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+952 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render
+958 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render_value_in_context
+962 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=template_localtime
+calls=764 171
+962 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=localize
+calls=764 187
+962 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/html.py
+cfn=conditional_escape
+calls=764 95
+962 9
+cfn=<built-in method builtins.issubclass>
+calls=764 0
+962 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=__init__
+979 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+fn=render
+985 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=resolve
+calls=764 668
+985 59
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/base.py
+cfn=render_value_in_context
+calls=764 962
+985 13
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__init__
+14 0
+cfn=<method 'append' of 'list' objects>
+calls=17 0
+14 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__enter__
+20 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__exit__
+23 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=pop
+calls=16 57
+23 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=iter_format_modules
+60 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=check_for_language
+calls=1 206
+60 2
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=to_locale
+calls=1 219
+60 0
+cfn=<method 'split' of 'str' objects>
+calls=1 0
+60 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+60 0
+cfl=/usr/lib/python3.6/importlib/__init__.py
+cfn=import_module
+calls=2 108
+60 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__init__
+28 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=_reset_dicts
+calls=2 31
+28 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=_reset_dicts
+31 0
+cfn=<method 'append' of 'list' objects>
+calls=1 0
+31 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=push
+48 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__init__
+calls=17 14
+48 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=pop
+57 0
+cfn=<method 'pop' of 'list' objects>
+calls=17 0
+57 0
+cfn=<built-in method builtins.len>
+calls=17 0
+57 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__setitem__
+62 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__getitem__
+78 1
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=<genexpr>
+90 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__contains__
+89 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=<genexpr>
+calls=20 90
+89 0
+cfn=<built-in method builtins.any>
+calls=24 0
+89 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=get_format
+99 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=get_language
+calls=1 198
+99 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=get_format_modules
+calls=1 87
+99 2
+cfn=<built-in method builtins.getattr>
+calls=4 0
+99 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=__init__
+137 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=__init__
+calls=2 28
+137 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=bind_template
+148 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=date_format
+144 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/dateformat.py
+cfn=format
+calls=1 358
+144 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=get_format
+calls=1 99
+144 2
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+fn=push_state
+201 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=pop
+calls=1 57
+201 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/template/context.py
+cfn=push
+calls=1 48
+201 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=number_format
+165 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=get_format
+calls=435 99
+165 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/numberformat.py
+cfn=format
+calls=145 7
+165 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=get_format_modules
+87 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=iter_format_modules
+calls=2 60
+87 2
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+fn=localize
+187 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/formats.py
+cfn=number_format
+calls=145 165
+187 0
+cfn=<built-in method builtins.isinstance>
+calls=1054 0
+187 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=fromutc
+193 0
+cfn=<built-in method _bisect.bisect_right>
+calls=1 0
+193 0
+cfn=<built-in method builtins.max>
+calls=1 0
+193 0
+cfn=<method 'replace' of 'datetime.datetime' objects>
+calls=2 0
+193 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+193 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=utcoffset
+396 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+fn=build_tzinfo
+25 0
+cfn=<built-in method _struct.calcsize>
+calls=2 0
+25 0
+cfn=<method 'read' of '_io.BufferedReader' objects>
+calls=2 0
+25 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+cfn=_byte_string
+calls=1 13
+25 0
+cfn=<built-in method _struct.unpack>
+calls=2 0
+25 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+cfn=<listcomp>
+calls=1 42
+25 0
+cfn=<method 'find' of 'bytes' objects>
+calls=5 0
+25 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+cfn=_std_string
+calls=5 20
+25 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=memorized_ttinfo
+calls=68 45
+25 0
+cfn=<built-in method builtins.len>
+calls=18 0
+25 0
+cfn=<method 'append' of 'list' objects>
+calls=80 0
+25 0
+cfn=<method 'insert' of 'list' objects>
+calls=2 0
+25 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=__init__
+calls=1 179
+25 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+fn=<listcomp>
+42 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=memorized_datetime
+calls=67 31
+42 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/html.py
+fn=escape
+36 0
+cfn=<method 'translate' of 'str' objects>
+calls=619 0
+36 3
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=mark_safe
+calls=619 71
+36 1
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=get_default_timezone
+76 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=timezone
+calls=1 123
+76 28
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=get_current_timezone
+95 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=get_default_timezone
+calls=1 76
+95 28
+cfn=<built-in method builtins.getattr>
+calls=1 0
+95 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=template_localtime
+171 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=is_naive
+calls=1 251
+171 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=localtime
+calls=1 191
+171 28
+cfn=<built-in method builtins.getattr>
+calls=1 0
+171 0
+cfn=<built-in method builtins.isinstance>
+calls=765 0
+171 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=localtime
+191 0
+cfn=<method 'astimezone' of 'datetime.datetime' objects>
+calls=1 0
+191 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=is_naive
+calls=1 251
+191 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+cfn=get_current_timezone
+calls=1 95
+191 28
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=now
+224 0
+cfn=<built-in method utcnow>
+calls=1 0
+224 0
+cfn=<method 'replace' of 'datetime.datetime' objects>
+calls=1 0
+224 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/timezone.py
+fn=is_naive
+251 0
+cfn=<method 'utcoffset' of 'datetime.datetime' objects>
+calls=3 0
+251 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=ascii
+47 0
+cfn=<method 'encode' of 'str' objects>
+calls=1 0
+47 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=open_resource
+78 5
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=dirname
+calls=594 154
+78 2
+cfl=/usr/lib/python3.6/_collections_abc.py
+cfn=get
+calls=594 657
+78 3
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=join
+calls=594 75
+78 3
+cfl=/usr/lib/python3.6/genericpath.py
+cfn=exists
+calls=594 16
+78 3
+cfn=<built-in method io.open>
+calls=594 0
+78 4
+cfn=<method 'lstrip' of 'str' objects>
+calls=594 0
+78 0
+cfn=<method 'split' of 'str' objects>
+calls=594 0
+78 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=resource_exists
+111 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=open_resource
+calls=593 78
+111 23
+cfn=<method 'close' of '_io.BufferedReader' objects>
+calls=593 0
+111 2
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=timezone
+123 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=ascii
+calls=1 47
+123 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=_unmunge_zone
+calls=1 186
+123 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=_case_insensitive_zone_lookup
+calls=1 194
+123 28
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=open_resource
+calls=1 78
+123 0
+cfn=<method 'close' of '_io.BufferedReader' objects>
+calls=1 0
+123 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/lazy.py
+cfn=_lazy
+calls=1 150
+123 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+cfn=build_tzinfo
+calls=1 25
+123 0
+cfn=<method 'upper' of 'str' objects>
+calls=1 0
+123 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=_unmunge_zone
+186 0
+cfn=<method 'replace' of 'str' objects>
+calls=2 0
+186 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=<genexpr>
+198 0
+cfn=<method 'lower' of 'str' objects>
+calls=593 0
+198 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=_case_insensitive_zone_lookup
+194 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/lazy.py
+cfn=_lazy
+calls=1 97
+194 27
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=<genexpr>
+calls=594 198
+194 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+194 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+194 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=utcoffset
+223 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+fn=<genexpr>
+1105 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=resource_exists
+calls=593 111
+1105 26
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/html.py
+fn=conditional_escape
+95 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+cfn=__html__
+calls=148 12
+95 0
+cfn=<built-in method builtins.hasattr>
+calls=764 0
+95 0
+cfn=<built-in method builtins.isinstance>
+calls=764 0
+95 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+cfn=wrapper
+calls=616 234
+95 7
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=memorized_datetime
+31 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/lazy.py
+fn=_lazy
+97 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/__init__.py
+cfn=<genexpr>
+calls=594 1105
+97 27
+cfn=<built-in method builtins.delattr>
+calls=31 0
+97 0
+cfn=<method 'acquire' of '_thread.RLock' objects>
+calls=1 0
+97 0
+cfn=<method 'release' of '_thread.RLock' objects>
+calls=1 0
+97 0
+cfn=<method 'pop' of 'list' objects>
+calls=1 0
+97 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+97 0
+cfn=<built-in method builtins.len>
+calls=1 0
+97 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=memorized_ttinfo
+45 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=memorized_timedelta
+calls=14 18
+45 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/lazy.py
+fn=_lazy
+150 0
+cfn=<built-in method builtins.delattr>
+calls=42 0
+150 0
+cfn=<method 'acquire' of '_thread.RLock' objects>
+calls=1 0
+150 0
+cfn=<method 'release' of '_thread.RLock' objects>
+calls=1 0
+150 0
+cfn=<method 'pop' of 'list' objects>
+calls=1 0
+150 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+150 0
+cfn=<built-in method builtins.len>
+calls=1 0
+150 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+fn=_byte_string
+13 0
+cfn=<method 'encode' of 'str' objects>
+calls=1 0
+13 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=memorized_timedelta
+18 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzfile.py
+fn=_std_string
+20 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=5 0
+20 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+fn=__init__
+179 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/pytz/tzinfo.py
+cfn=__init__
+calls=6 179
+179 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/http.py
+fn=is_same_domain
+276 0
+cfn=<method 'lower' of 'str' objects>
+calls=3 0
+276 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/http.py
+fn=limited_parse_qsl
+397 0
+cfn=<built-in method builtins.len>
+calls=2 0
+397 0
+cfn=<method 'split' of '_sre.SRE_Pattern' objects>
+calls=2 0
+397 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=_convert_to_charset
+108 0
+cfn=<built-in method builtins.isinstance>
+calls=8 0
+108 0
+cfn=<method 'encode' of 'str' objects>
+calls=2 0
+108 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=__setitem__
+135 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+135 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=_convert_to_charset
+calls=2 108
+135 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=items
+152 0
+cfn=<method 'values' of 'dict' objects>
+calls=1 0
+152 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=get
+155 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+155 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+155 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=make_bytes
+224 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+224 0
+cfn=<method 'encode' of 'str' objects>
+calls=1 0
+224 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=charset
+calls=1 76
+224 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=__init__
+288 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__init__
+calls=1 38
+288 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=content
+calls=1 310
+288 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=content
+310 0
+cfn=<built-in method builtins.hasattr>
+calls=1 0
+310 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+310 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=make_bytes
+calls=1 224
+310 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+fn=items
+173 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/text.py
+fn=smart_split
+318 0
+cfn=<method 'finditer' of '_sre.SRE_Pattern' objects>
+calls=66 0
+318 0
+cfn=<method 'group' of '_sre.SRE_Match' objects>
+calls=189 0
+318 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/text.py
+fn=unescape_string_literal
+364 0
+cfn=<method 'replace' of 'str' objects>
+calls=4 0
+364 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+fn=__init__
+66 0
+
+fl=/usr/lib/python3.6/cgi.py
+fn=_parseparam
+301 0
+cfn=<method 'find' of 'str' objects>
+calls=1 0
+301 0
+cfn=<built-in method builtins.len>
+calls=1 0
+301 0
+cfn=<method 'strip' of 'str' objects>
+calls=1 0
+301 0
+
+fl=/usr/lib/python3.6/cgi.py
+fn=parse_header
+313 0
+cfl=/usr/lib/python3.6/cgi.py
+cfn=_parseparam
+calls=2 301
+313 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=_get_raw_host
+74 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+74 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=get_host
+93 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=_get_raw_host
+calls=1 74
+93 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=split_domain_port
+calls=1 565
+93 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=validate_host
+calls=1 587
+93 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+93 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=get_full_path
+121 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=_get_full_path
+calls=10 127
+121 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=_get_full_path
+127 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/encoding.py
+cfn=escape_uri_path
+calls=10 205
+127 0
+cfn=<method 'get' of 'dict' objects>
+calls=10 0
+127 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=get_raw_uri
+159 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=scheme
+calls=2 214
+159 0
+cfn=<method 'format' of 'str' objects>
+calls=2 0
+159 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_full_path
+calls=2 121
+159 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=_get_raw_host
+calls=2 74
+159 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=scheme
+214 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=_get_scheme
+calls=2 99
+214 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=is_ajax
+230 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+230 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=_load_post_and_files
+298 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=__init__
+calls=1 410
+298 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+cfn=__init__
+calls=1 66
+298 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=reason_phrase
+64 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+64 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=__init__
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/datastructures.py
+cfn=__init__
+calls=2 66
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=encoding
+calls=2 449
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=encoding
+calls=2 443
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/http.py
+cfn=limited_parse_qsl
+calls=2 397
+410 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=2 76
+410 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+410 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=encoding
+443 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=encoding
+449 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=split_domain_port
+565 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+565 0
+cfn=<method 'match' of '_sre.SRE_Pattern' objects>
+calls=1 0
+565 0
+cfn=<built-in method builtins.len>
+calls=1 0
+565 0
+cfn=<method 'rsplit' of 'str' objects>
+calls=1 0
+565 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1 0
+565 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=<genexpr>
+602 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/http.py
+cfn=is_same_domain
+calls=3 276
+602 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=validate_host
+587 0
+cfn=<built-in method builtins.any>
+calls=1 0
+587 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=charset
+76 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=1 0
+76 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=get
+calls=1 155
+76 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/cookie.py
+fn=parse_cookie
+10 0
+cfn=<method 'strip' of 'str' objects>
+calls=2 0
+10 0
+cfn=<method 'split' of 'str' objects>
+calls=1 0
+10 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/six.py
+fn=find_module
+182 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+fn=__init__
+38 0
+cfl=/usr/lib/python3.6/http/cookies.py
+cfn=__init__
+calls=1 506
+38 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/response.py
+cfn=__setitem__
+calls=1 135
+38 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+fn=__repr__
+65 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/http/request.py
+cfn=get_full_path
+calls=8 121
+65 0
+
+fl=/usr/lib/python3.6/http/cookies.py
+fn=__init__
+506 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+fn=mark_safe
+71 0
+cfn=<built-in method builtins.hasattr>
+calls=841 0
+71 0
+cfn=<built-in method builtins.callable>
+calls=836 0
+71 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=escape_uri_path
+205 0
+cfl=/usr/lib/python3.6/urllib/parse.py
+cfn=quote
+calls=10 783
+205 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/encoding.py
+fn=repercent_broken_unicode
+222 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=2 0
+222 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=getLevelName
+120 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+120 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=<lambda>
+157 0
+cfn=<built-in method sys._getframe>
+calls=2 0
+157 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=_checkLevel
+190 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+190 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=_acquireLock
+219 0
+cfn=<method 'acquire' of '_thread.RLock' objects>
+calls=1 0
+219 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=_releaseLock
+228 0
+cfn=<method 'release' of '_thread.RLock' objects>
+calls=1 0
+228 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=__init__
+251 0
+cfn=<built-in method time.time>
+calls=2 0
+251 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getLevelName
+calls=2 120
+251 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=basename
+calls=2 144
+251 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=splitext
+calls=2 121
+251 0
+cfl=/usr/lib/python3.6/threading.py
+cfn=current_thread
+calls=2 1230
+251 0
+cfl=/usr/lib/python3.6/threading.py
+cfn=name
+calls=2 1076
+251 0
+cfn=<built-in method posix.getpid>
+calls=2 0
+251 0
+cfn=<built-in method builtins.len>
+calls=1 0
+251 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+251 0
+cfn=<built-in method _thread.get_ident>
+calls=2 0
+251 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+251 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=getMessage
+329 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=usesTime
+387 0
+cfn=<method 'find' of 'str' objects>
+calls=2 0
+387 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=format
+390 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=usesTime
+542 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=usesTime
+calls=2 387
+542 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=formatMessage
+548 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=format
+calls=2 390
+548 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=format
+564 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getMessage
+calls=2 329
+564 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=usesTime
+calls=2 542
+564 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=formatMessage
+calls=2 548
+564 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=__init__
+685 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=filter
+705 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+cfn=filter
+calls=2 158
+705 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/log.py
+cfn=filter
+calls=1 153
+705 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+705 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=acquire
+809 0
+cfn=<method 'acquire' of '_thread.RLock' objects>
+calls=6 0
+809 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=release
+816 0
+cfn=<method 'release' of '_thread.RLock' objects>
+calls=6 0
+816 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=format
+829 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=format
+calls=2 564
+829 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=handle
+852 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=filter
+calls=5 705
+852 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=acquire
+calls=4 809
+852 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=emit
+calls=2 982
+852 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=release
+calls=4 816
+852 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/debug_toolbar/panels/logging.py
+cfn=emit
+calls=2 31
+852 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+fn=get_language
+231 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+231 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=flush
+971 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=acquire
+calls=2 809
+971 0
+cfn=<method 'flush' of '_io.TextIOWrapper' objects>
+calls=2 0
+971 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=release
+calls=2 816
+971 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+971 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=emit
+982 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=format
+calls=2 829
+982 0
+cfn=<method 'write' of '_io.TextIOWrapper' objects>
+calls=4 0
+982 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=flush
+calls=2 971
+982 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+fn=gettext
+274 0
+cfl=/usr/lib/python3.6/gettext.py
+cfn=gettext
+calls=2 443
+274 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+274 0
+cfn=<method 'replace' of 'str' objects>
+calls=4 0
+274 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+274 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=append
+1115 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=getLogger
+1161 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_acquireLock
+calls=1 219
+1161 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=__init__
+calls=1 1268
+1161 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_fixupParents
+calls=1 1212
+1161 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_releaseLock
+calls=1 228
+1161 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+1161 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=_fixupParents
+1212 0
+cfn=<method 'rfind' of 'str' objects>
+calls=3 0
+1212 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=append
+calls=1 1115
+1212 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+1212 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=__init__
+1268 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=__init__
+calls=1 685
+1268 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_checkLevel
+calls=1 190
+1268 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=warning
+1310 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=isEnabledFor
+calls=1 1544
+1310 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_log
+calls=1 1421
+1310 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=error
+1327 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=isEnabledFor
+calls=1 1544
+1327 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=_log
+calls=1 1421
+1327 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=findCaller
+1376 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=<lambda>
+calls=2 157
+1376 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=normcase
+calls=2 52
+1376 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+1376 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=makeRecord
+1406 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=__init__
+calls=2 251
+1406 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=_log
+1421 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=findCaller
+calls=2 1376
+1421 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=makeRecord
+calls=2 1406
+1421 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=handle
+calls=2 1446
+1421 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=handle
+1446 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=filter
+calls=2 705
+1446 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=callHandlers
+calls=2 1500
+1446 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=callHandlers
+1500 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=handle
+calls=5 852
+1500 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=getEffectiveLevel
+1530 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=isEnabledFor
+1544 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getEffectiveLevel
+calls=2 1530
+1544 0
+
+fl=/usr/lib/python3.6/logging/__init__.py
+fn=getLogger
+1838 0
+cfl=/usr/lib/python3.6/logging/__init__.py
+cfn=getLogger
+calls=1 1161
+1838 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+fn=all_locale_paths
+351 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/apps/registry.py
+cfn=get_app_configs
+calls=1 142
+351 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=dirname
+calls=1 154
+351 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=join
+calls=16 75
+351 0
+cfl=/usr/lib/python3.6/genericpath.py
+cfn=exists
+calls=15 16
+351 1
+cfn=<method 'append' of 'list' objects>
+calls=6 0
+351 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+fn=<genexpr>
+380 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=to_locale
+calls=1 219
+380 0
+cfl=/usr/lib/python3.6/gettext.py
+cfn=find
+calls=1 466
+380 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+fn=check_for_language
+365 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=all_locale_paths
+calls=1 351
+365 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=<genexpr>
+calls=1 380
+365 0
+cfn=<method 'search' of '_sre.SRE_Pattern' objects>
+calls=1 0
+365 0
+cfn=<built-in method builtins.any>
+calls=1 0
+365 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+fn=__html__
+12 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/safestring.py
+fn=__str__
+57 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_make_id
+7 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+7 0
+cfn=<built-in method builtins.id>
+calls=3 0
+7 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=<genexpr>
+109 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=connect
+49 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=configured
+calls=2 113
+49 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/inspect.py
+cfn=func_accepts_kwargs
+calls=2 36
+49 0
+cfl=/usr/lib/python3.6/weakref.py
+cfn=__init__
+calls=2 526
+49 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=<genexpr>
+calls=2 109
+49 0
+cfn=<method 'clear' of 'dict' objects>
+calls=2 0
+49 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=2 997
+49 0
+cfn=<built-in method builtins.any>
+calls=2 0
+49 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_clear_dead_receivers
+calls=2 214
+49 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_make_id
+calls=2 7
+49 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+49 0
+cfn=<built-in method builtins.callable>
+calls=2 0
+49 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=<listcomp>
+174 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/__init__.py
+cfn=close_old_connections
+calls=1 55
+174 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/__init__.py
+cfn=reset_queries
+calls=1 45
+174 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=send
+152 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_live_receivers
+calls=1 223
+152 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=<listcomp>
+calls=1 174
+152 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+152 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_clear_dead_receivers
+214 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+fn=_live_receivers
+223 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_clear_dead_receivers
+calls=1 214
+223 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=_make_id
+calls=1 7
+223 0
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+223 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+223 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/inspect.py
+fn=<genexpr>
+38 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=kind
+calls=5 2514
+38 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/inspect.py
+fn=func_accepts_kwargs
+36 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=signature
+calls=2 3063
+36 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/inspect.py
+cfn=<genexpr>
+calls=2 38
+36 0
+cfn=<built-in method builtins.any>
+calls=2 0
+36 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=parameters
+calls=2 2817
+36 0
+cfn=<method 'values' of 'mappingproxy' objects>
+calls=2 0
+36 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/__init__.py
+fn=reset_queries
+45 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=all
+calls=1 215
+45 0
+cfn=<method 'clear' of 'collections.deque' objects>
+calls=1 0
+45 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/__init__.py
+fn=close_old_connections
+55 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+cfn=close_if_unusable_or_obsolete
+calls=1 492
+55 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=all
+calls=1 215
+55 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=load_backend
+100 0
+cfl=/usr/lib/python3.6/importlib/__init__.py
+cfn=import_module
+calls=1 108
+100 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=ensure_defaults
+160 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=11 0
+160 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=prepare_test_settings
+181 0
+cfn=<method 'setdefault' of 'dict' objects>
+calls=5 0
+181 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=__getitem__
+194 0
+cfn=<built-in method builtins.setattr>
+calls=1 0
+194 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+194 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+194 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=ensure_defaults
+calls=1 160
+194 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=prepare_test_settings
+calls=1 181
+194 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=load_backend
+calls=1 100
+194 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/backends/base/base.py
+cfn=__init__
+calls=1 47
+194 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=__iter__
+212 0
+cfn=<built-in method builtins.iter>
+calls=2 0
+212 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=<listcomp>
+216 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=__getitem__
+calls=2 194
+216 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+fn=all
+215 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=__iter__
+calls=2 212
+215 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/db/utils.py
+cfn=<listcomp>
+calls=2 216
+215 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+fn=__getattr__
+52 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/dispatch/dispatcher.py
+cfn=connect
+calls=2 49
+52 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=3 997
+52 0
+cfn=<built-in method builtins.setattr>
+calls=1 0
+52 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+52 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+fn=gettext
+78 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=gettext
+calls=2 274
+78 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+fn=get_language
+198 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=get_language
+calls=1 231
+198 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+fn=check_for_language
+206 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=__getattr__
+calls=1 52
+206 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/trans_real.py
+cfn=check_for_language
+calls=1 365
+206 1
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+fn=to_locale
+219 0
+cfn=<method 'partition' of 'str' objects>
+calls=4 0
+219 0
+cfn=<method 'lower' of 'str' objects>
+calls=2 0
+219 0
+cfn=<method 'upper' of 'str' objects>
+calls=2 0
+219 0
+cfn=<built-in method builtins.len>
+calls=2 0
+219 0
+
+fl=/usr/lib/python3.6/gettext.py
+fn=_expand_lang
+205 0
+cfl=/usr/lib/python3.6/locale.py
+cfn=normalize
+calls=1 379
+205 0
+cfn=<method 'reverse' of 'list' objects>
+calls=1 0
+205 0
+cfn=<method 'find' of 'str' objects>
+calls=3 0
+205 0
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+205 0
+
+fl=/usr/lib/python3.6/gettext.py
+fn=gettext
+443 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+443 0
+
+fl=/usr/lib/python3.6/gettext.py
+fn=find
+466 0
+cfl=/usr/lib/python3.6/gettext.py
+cfn=_expand_lang
+calls=1 205
+466 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=join
+calls=8 75
+466 0
+cfl=/usr/lib/python3.6/genericpath.py
+cfn=exists
+calls=7 16
+466 0
+cfn=<method 'append' of 'list' objects>
+calls=4 0
+466 0
+
+fl=/usr/lib/python3.6/locale.py
+fn=normalize
+379 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+379 0
+cfn=<method 'get' of 'dict' objects>
+calls=1 0
+379 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=<genexpr>
+236 0
+cfn=<built-in method builtins.isinstance>
+calls=792 0
+236 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=wrapper
+234 1
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/html.py
+cfn=escape
+calls=619 36
+234 5
+cfn=<built-in method builtins.any>
+calls=792 0
+234 1
+cfn=<method 'values' of 'dict' objects>
+calls=792 0
+234 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/text.py
+cfn=unescape_string_literal
+calls=173 364
+234 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=inner
+254 0
+cfn=<built-in method builtins.dir>
+calls=1 0
+254 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/urls/base.py
+fn=set_urlconf
+130 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/urls/base.py
+fn=set_script_prefix
+102 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1 0
+102 0
+
+fl=<string>
+fn=__new__
+12 0
+cfn=<built-in method __new__ of type object at 0x9d12c0>
+calls=22 0
+12 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=isbuiltin
+277 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+277 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_is_wrapper
+502 0
+cfn=<built-in method builtins.hasattr>
+calls=28 0
+502 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_is_wrapper
+505 0
+cfn=<built-in method builtins.hasattr>
+calls=2 0
+505 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=unwrap
+485 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_is_wrapper
+calls=2 505
+485 0
+cfn=<built-in method builtins.len>
+calls=7 0
+485 0
+cfn=<built-in method builtins.id>
+calls=30 0
+485 0
+cfn=<built-in method sys.getrecursionlimit>
+calls=23 0
+485 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_is_wrapper
+calls=28 502
+485 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__get__
+72 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=GET
+calls=1 102
+72 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/wsgi.py
+cfn=COOKIES
+calls=1 116
+72 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=getfullargspec
+1089 0
+cfn=<method 'append' of 'list' objects>
+calls=29 0
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=name
+calls=29 2502
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=return_annotation
+calls=22 2821
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=parameters
+calls=22 2817
+1089 0
+cfn=<method 'values' of 'mappingproxy' objects>
+calls=22 0
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=kind
+calls=29 2514
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=default
+calls=31 2506
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=annotation
+calls=29 2510
+1089 0
+cfl=<string>
+cfn=__new__
+calls=22 12
+1089 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_from_callable
+calls=22 2183
+1089 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=<listcomp>
+1277 0
+cfn=<built-in method builtins.repr>
+calls=2 0
+1277 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_missing_arguments
+1276 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=<listcomp>
+calls=1 1277
+1276 0
+cfn=<method 'format' of 'str' objects>
+calls=1 0
+1276 0
+cfn=<built-in method builtins.len>
+calls=1 0
+1276 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=getcallargs
+1313 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=ismethod
+calls=1 81
+1313 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_missing_arguments
+calls=1 1276
+1313 0
+cfn=<built-in method builtins.len>
+calls=3 0
+1313 0
+cfn=<method 'items' of 'dict' objects>
+calls=1 0
+1313 0
+cfn=<built-in method builtins.min>
+calls=1 0
+1313 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=getfullargspec
+calls=1 1089
+1313 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_signature_get_user_defined_method
+1695 0
+cfn=<built-in method builtins.getattr>
+calls=3 0
+1695 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+1695 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_signature_is_builtin
+1813 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=isbuiltin
+calls=1 277
+1813 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=ismethoddescriptor
+calls=1 91
+1813 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+1813 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_signature_is_functionlike
+1825 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=isclass
+calls=1 73
+1825 0
+cfn=<built-in method builtins.callable>
+calls=1 0
+1825 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_signature_from_function
+2102 0
+cfn=<built-in method builtins.len>
+calls=2 0
+2102 0
+cfn=<method 'append' of 'list' objects>
+calls=34 0
+2102 0
+cfn=<method 'get' of 'dict' objects>
+calls=58 0
+2102 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=isfunction
+calls=24 159
+2102 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=__init__
+calls=34 2452
+2102 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=__init__
+calls=24 2732
+2102 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=_signature_from_callable
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_is_functionlike
+calls=1 1825
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_is_builtin
+calls=1 1813
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_get_user_defined_method
+calls=3 1695
+2183 0
+cfn=<built-in method builtins.isinstance>
+calls=29 0
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=unwrap
+calls=2 485
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_from_callable
+calls=1 2183
+2183 0
+cfn=<built-in method builtins.callable>
+calls=25 0
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=isfunction
+calls=25 159
+2183 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_from_function
+calls=24 2102
+2183 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=__init__
+2452 0
+cfn=<built-in method builtins.isinstance>
+calls=34 0
+2452 0
+cfl=/usr/lib/python3.6/enum.py
+cfn=__call__
+calls=34 267
+2452 0
+cfn=<method 'isidentifier' of 'str' objects>
+calls=34 0
+2452 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=name
+2502 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=default
+2506 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=annotation
+2510 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=kind
+2514 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=<genexpr>
+2781 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=name
+calls=34 2502
+2781 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=__init__
+2732 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=<genexpr>
+calls=58 2781
+2732 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=from_callable
+2811 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=_signature_from_callable
+calls=2 2183
+2811 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=parameters
+2817 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=return_annotation
+2821 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__text_cast
+155 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=gettext
+calls=1 78
+155 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=signature
+3063 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=from_callable
+calls=2 2811
+3063 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/functional.py
+fn=__wrapper__
+148 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/translation/__init__.py
+cfn=gettext
+calls=1 78
+148 0
+cfn=<method 'title' of 'str' objects>
+calls=1 0
+148 0
+cfn=<built-in method builtins.getattr>
+calls=1 0
+148 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=parse_parts
+51 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=splitroot
+calls=13 282
+51 0
+cfn=<built-in method sys.intern>
+calls=12 0
+51 0
+cfn=<method 'reverse' of 'list' objects>
+calls=1 0
+51 0
+cfn=<method 'append' of 'list' objects>
+calls=13 0
+51 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=splitroot
+282 0
+cfn=<built-in method builtins.len>
+calls=2 0
+282 0
+cfn=<method 'lstrip' of 'str' objects>
+calls=1 0
+282 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=wrapped
+385 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=__str__
+calls=1 691
+385 0
+cfn=<built-in method posix.open>
+calls=1 0
+385 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=_parse_args
+631 0
+cfn=<built-in method posix.fspath>
+calls=2 0
+631 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=parse_parts
+calls=1 51
+631 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+631 0
+cfn=<built-in method builtins.isinstance>
+calls=5 0
+631 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=_from_parts
+651 0
+cfn=<built-in method __new__ of type object at 0x9d12c0>
+calls=1 0
+651 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=_parse_args
+calls=1 631
+651 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=_format_parsed_parts
+674 0
+cfn=<method 'join' of 'str' objects>
+calls=1 0
+674 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=__str__
+691 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=_format_parsed_parts
+calls=1 674
+691 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/deprecation.py
+fn=__call__
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+cfn=process_response
+calls=1 22
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/core/handlers/exception.py
+cfn=inner
+calls=2 31
+90 102
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/security.py
+cfn=process_request
+calls=1 20
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/contrib/sessions/middleware.py
+cfn=process_request
+calls=1 18
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/common.py
+cfn=process_request
+calls=1 34
+90 0
+cfn=<built-in method builtins.hasattr>
+calls=5 0
+90 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/middleware/security.py
+cfn=process_response
+calls=1 30
+90 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=__new__
+998 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=_from_parts
+calls=1 651
+998 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=_init
+calls=1 1008
+998 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=_init
+1008 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=_opener
+1035 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=wrapped
+calls=1 385
+1035 0
+
+fl=/usr/lib/python3.6/pathlib.py
+fn=open
+1174 0
+cfl=/usr/lib/python3.6/pathlib.py
+cfn=__str__
+calls=1 691
+1174 0
+cfn=<built-in method io.open>
+calls=1 0
+1174 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=isclass
+73 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+73 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=ismethod
+81 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+81 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=isfunction
+159 0
+cfn=<built-in method builtins.isinstance>
+calls=49 0
+159 0
+
+fl=/usr/lib/python3.6/urllib/parse.py
+fn=quote
+783 0
+cfl=/usr/lib/python3.6/urllib/parse.py
+cfn=quote_from_bytes
+calls=10 844
+783 0
+cfn=<built-in method builtins.isinstance>
+calls=10 0
+783 0
+cfn=<method 'encode' of 'str' objects>
+calls=10 0
+783 0
+
+fl=/usr/lib/python3.6/urllib/parse.py
+fn=quote_from_bytes
+844 0
+cfn=<method 'rstrip' of 'bytes' objects>
+calls=10 0
+844 0
+cfn=<built-in method builtins.isinstance>
+calls=20 0
+844 0
+cfn=<method 'encode' of 'str' objects>
+calls=10 0
+844 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=10 0
+844 0
+
+fl=/usr/lib/python3.6/inspect.py
+fn=ismethoddescriptor
+91 0
+cfl=/usr/lib/python3.6/inspect.py
+cfn=isclass
+calls=1 73
+91 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/module_loading.py
+fn=import_string
+7 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+7 0
+cfn=<method 'rsplit' of 'str' objects>
+calls=2 0
+7 0
+cfl=/usr/lib/python3.6/importlib/__init__.py
+cfn=import_module
+calls=2 108
+7 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/apps/registry.py
+fn=check_apps_ready
+127 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/apps/registry.py
+fn=get_app_configs
+142 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/apps/registry.py
+cfn=check_apps_ready
+calls=1 127
+142 0
+cfn=<method 'values' of 'collections.OrderedDict' objects>
+calls=1 0
+142 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+fn=__getattr__
+76 0
+cfn=<built-in method builtins.getattr>
+calls=112 0
+76 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+fn=configured
+113 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+fn=DEFAULT_CONTENT_TYPE
+118 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=dirname
+calls=1 154
+118 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=extract_stack
+calls=1 200
+118 4
+cfl=/usr/lib/python3.6/traceback.py
+cfn=__iter__
+calls=1 276
+118 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+118 0
+cfn=<method 'startswith' of 'str' objects>
+calls=1 0
+118 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+fn=FILE_CHARSET
+132 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=dirname
+calls=1 154
+132 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=extract_stack
+calls=1 200
+132 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=__iter__
+calls=1 276
+132 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/conf/__init__.py
+cfn=__getattr__
+calls=1 76
+132 0
+cfn=<method 'startswith' of 'str' objects>
+calls=1 0
+132 0
+
+fl=/usr/lib/python3.6/importlib/__init__.py
+fn=import_module
+108 0
+cfn=<method 'startswith' of 'str' objects>
+calls=5 0
+108 0
+cfl=<frozen importlib._bootstrap>
+cfn=_gcd_import
+calls=5 982
+108 1
+
+fl=/usr/lib/python3.6/contextlib.py
+fn=__init__
+59 0
+cfn=<built-in method builtins.getattr>
+calls=2 0
+59 0
+
+fl=/usr/lib/python3.6/contextlib.py
+fn=__enter__
+79 0
+cfn=<built-in method builtins.next>
+calls=2 0
+79 0
+
+fl=/usr/lib/python3.6/contextlib.py
+fn=__exit__
+85 0
+cfn=<built-in method builtins.next>
+calls=2 0
+85 0
+
+fl=/usr/lib/python3.6/contextlib.py
+fn=helper
+157 0
+cfl=/usr/lib/python3.6/contextlib.py
+cfn=__init__
+calls=2 59
+157 0
+
+fl=/usr/lib/python3.6/threading.py
+fn=name
+1076 0
+
+fl=/usr/lib/python3.6/threading.py
+fn=current_thread
+1230 0
+cfn=<built-in method _thread.get_ident>
+calls=4 0
+1230 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=extract_stack
+200 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=extract
+calls=2 319
+200 5
+cfn=<built-in method sys._getframe>
+calls=2 0
+200 0
+cfn=<method 'reverse' of 'list' objects>
+calls=2 0
+200 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=__init__
+243 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=__iter__
+276 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=line
+calls=2 283
+276 0
+cfn=<built-in method builtins.iter>
+calls=2 0
+276 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=line
+283 0
+cfl=/usr/lib/python3.6/linecache.py
+cfn=getline
+calls=50 15
+283 4
+cfn=<method 'strip' of 'str' objects>
+calls=50 0
+283 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=walk_stack
+290 0
+
+fl=/usr/lib/python3.6/traceback.py
+fn=extract
+319 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=walk_stack
+calls=52 290
+319 0
+cfn=<method 'add' of 'set' objects>
+calls=50 0
+319 0
+cfl=/usr/lib/python3.6/linecache.py
+cfn=lazycache
+calls=50 147
+319 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=__init__
+calls=50 243
+319 0
+cfl=/usr/lib/python3.6/linecache.py
+cfn=checkcache
+calls=26 53
+319 0
+cfl=/usr/lib/python3.6/traceback.py
+cfn=line
+calls=50 283
+319 4
+cfn=<built-in method builtins.getattr>
+calls=2 0
+319 0
+cfn=<method 'append' of 'list' objects>
+calls=50 0
+319 0
+
+fl=/usr/lib/python3.6/linecache.py
+fn=getline
+15 0
+cfl=/usr/lib/python3.6/linecache.py
+cfn=getlines
+calls=50 37
+15 4
+cfn=<built-in method builtins.len>
+calls=50 0
+15 0
+
+fl=/usr/lib/python3.6/linecache.py
+fn=getlines
+37 0
+cfl=/usr/lib/python3.6/linecache.py
+cfn=updatecache
+calls=12 82
+37 4
+cfn=<built-in method builtins.len>
+calls=50 0
+37 0
+
+fl=/usr/lib/python3.6/linecache.py
+fn=checkcache
+53 0
+cfn=<built-in method posix.stat>
+calls=14 0
+53 0
+cfn=<built-in method builtins.len>
+calls=26 0
+53 0
+
+fl=/usr/lib/python3.6/linecache.py
+fn=updatecache
+82 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=open
+calls=12 448
+82 2
+cfn=<method 'readlines' of '_io._IOBase' objects>
+calls=12 0
+82 1
+cfn=<built-in method posix.stat>
+calls=12 0
+82 0
+cfn=<built-in method builtins.len>
+calls=12 0
+82 0
+cfn=<method 'startswith' of 'str' objects>
+calls=12 0
+82 0
+cfn=<method 'endswith' of 'str' objects>
+calls=12 0
+82 0
+
+fl=/usr/lib/python3.6/linecache.py
+fn=lazycache
+147 0
+cfn=<built-in method builtins.getattr>
+calls=12 0
+147 0
+cfn=<built-in method builtins.len>
+calls=38 0
+147 0
+cfn=<method 'startswith' of 'str' objects>
+calls=12 0
+147 0
+cfn=<method 'get' of 'dict' objects>
+calls=12 0
+147 0
+
+fl=/usr/lib/python3.6/tokenize.py
+fn=_get_normal_name
+344 0
+cfn=<method 'lower' of 'str' objects>
+calls=1 0
+344 0
+cfn=<method 'replace' of 'str' objects>
+calls=1 0
+344 0
+
+fl=/usr/lib/python3.6/tokenize.py
+fn=read_or_stop
+379 0
+cfn=<method 'readline' of '_io.BytesIO' objects>
+calls=4 0
+379 0
+cfn=<method 'readline' of '_io.BufferedReader' objects>
+calls=13 0
+379 0
+
+fl=/usr/lib/python3.6/tokenize.py
+fn=find_cookie
+385 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=_get_normal_name
+calls=1 344
+385 0
+cfn=<built-in method _codecs.lookup>
+calls=1 0
+385 0
+cfn=<method 'match' of '_sre.SRE_Pattern' objects>
+calls=17 0
+385 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=17 0
+385 0
+cfn=<method 'group' of '_sre.SRE_Match' objects>
+calls=1 0
+385 0
+
+fl=/usr/lib/python3.6/tokenize.py
+fn=detect_encoding
+355 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=read_or_stop
+calls=17 379
+355 0
+cfn=<method 'startswith' of 'bytes' objects>
+calls=16 0
+355 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=find_cookie
+calls=17 385
+355 0
+cfn=<method 'match' of '_sre.SRE_Pattern' objects>
+calls=15 0
+355 0
+
+fl=/usr/lib/python3.6/tokenize.py
+fn=open
+448 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=detect_encoding
+calls=12 355
+448 0
+cfn=<method 'seek' of '_io.BufferedReader' objects>
+calls=12 0
+448 0
+cfn=<built-in method io.open>
+calls=12 0
+448 2
+cfl=/usr/lib/python3.6/codecs.py
+cfn=__init__
+calls=12 308
+448 0
+
+fl=/usr/lib/python3.6/re.py
+fn=split
+204 0
+cfn=<method 'split' of '_sre.SRE_Pattern' objects>
+calls=17 0
+204 0
+cfl=/usr/lib/python3.6/re.py
+cfn=_compile
+calls=17 286
+204 0
+
+fl=/usr/lib/python3.6/re.py
+fn=findall
+214 0
+cfn=<method 'findall' of '_sre.SRE_Pattern' objects>
+calls=10 0
+214 0
+cfl=/usr/lib/python3.6/re.py
+cfn=_compile
+calls=10 286
+214 0
+
+fl=/usr/lib/python3.6/re.py
+fn=_compile
+286 0
+cfn=<built-in method builtins.len>
+calls=2 0
+286 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+286 0
+cfl=/usr/lib/python3.6/enum.py
+cfn=__and__
+calls=4 803
+286 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=isstring
+calls=2 539
+286 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=compile
+calls=2 557
+286 0
+
+fl=/usr/lib/python3.6/re.py
+fn=_compile_repl
+314 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=parse_template
+calls=1 876
+314 0
+
+fl=/usr/lib/python3.6/re.py
+fn=_subx
+324 0
+cfl=/usr/lib/python3.6/re.py
+cfn=_compile_repl
+calls=1 314
+324 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_compile
+64 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_compile_charset
+calls=2 223
+64 0
+cfn=<built-in method builtins.len>
+calls=12 0
+64 0
+cfn=<method 'append' of 'list' objects>
+calls=30 0
+64 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__getitem__
+calls=8 163
+64 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_compile
+calls=4 64
+64 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_simple
+calls=4 388
+64 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_compile_charset
+223 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_optimize_charset
+calls=2 250
+223 0
+cfn=<method 'append' of 'list' objects>
+calls=6 0
+223 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_optimize_charset
+250 0
+cfn=<method 'find' of 'bytearray' objects>
+calls=2 0
+250 0
+cfn=<built-in method builtins.len>
+calls=4 0
+250 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+250 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_simple
+388 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__getitem__
+calls=4 163
+388 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=getwidth
+calls=4 173
+388 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_get_literal_prefix
+414 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_get_charset_prefix
+441 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_compile_info
+482 0
+cfn=<method 'extend' of 'list' objects>
+calls=1 0
+482 0
+cfn=<built-in method builtins.len>
+calls=2 0
+482 0
+cfn=<method 'append' of 'list' objects>
+calls=5 0
+482 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=getwidth
+calls=2 173
+482 0
+cfn=<built-in method builtins.min>
+calls=1 0
+482 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_get_literal_prefix
+calls=1 414
+482 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_get_charset_prefix
+calls=1 441
+482 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=isstring
+539 0
+cfn=<built-in method builtins.isinstance>
+calls=4 0
+539 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=_code
+542 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+542 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_compile_info
+calls=2 482
+542 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_compile
+calls=2 64
+542 0
+
+fl=/usr/lib/python3.6/sre_compile.py
+fn=compile
+557 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=groups
+calls=4 81
+557 0
+cfn=<method 'items' of 'dict' objects>
+calls=2 0
+557 0
+cfn=<built-in method _sre.compile>
+calls=2 0
+557 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=isstring
+calls=2 539
+557 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=parse
+calls=2 844
+557 0
+cfl=/usr/lib/python3.6/sre_compile.py
+cfn=_code
+calls=2 542
+557 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__init__
+76 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=groups
+81 0
+cfn=<built-in method builtins.len>
+calls=4 0
+81 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__init__
+111 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__len__
+159 0
+cfn=<built-in method builtins.len>
+calls=12 0
+159 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__getitem__
+163 0
+cfn=<built-in method builtins.isinstance>
+calls=24 0
+163 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=4 111
+163 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__setitem__
+167 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=append
+171 0
+cfn=<method 'append' of 'list' objects>
+calls=5 0
+171 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=getwidth
+173 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=getwidth
+calls=4 173
+173 0
+cfn=<built-in method builtins.min>
+calls=12 0
+173 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__init__
+223 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+223 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__next
+calls=3 232
+223 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=__next
+232 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=match
+248 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=get
+253 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__next
+calls=11 232
+253 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=tell
+285 0
+cfn=<built-in method builtins.len>
+calls=6 0
+285 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=_escape
+342 0
+cfn=<method 'get' of 'dict' objects>
+calls=2 0
+342 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=_parse_sub
+407 0
+cfn=<built-in method builtins.len>
+calls=2 0
+407 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+407 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=tell
+calls=2 285
+407 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=_parse
+calls=2 470
+407 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=match
+calls=2 248
+407 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=_parse
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=_escape
+calls=2 342
+470 0
+cfn=<built-in method builtins.len>
+calls=4 0
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=tell
+calls=4 285
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=2 111
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=get
+calls=9 253
+470 0
+cfn=<built-in method builtins.ord>
+calls=3 0
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=append
+calls=5 171
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__len__
+calls=8 159
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__getitem__
+calls=12 163
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=match
+calls=4 248
+470 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__setitem__
+calls=4 167
+470 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=fix_flags
+828 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+828 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=parse
+844 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=2 223
+844 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=2 76
+844 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=_parse_sub
+calls=2 407
+844 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=fix_flags
+calls=2 828
+844 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=addgroup
+885 0
+cfn=<built-in method builtins.len>
+calls=1 0
+885 0
+cfn=<method 'append' of 'list' objects>
+calls=2 0
+885 0
+
+fl=/usr/lib/python3.6/sre_parse.py
+fn=parse_template
+876 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=addgroup
+calls=1 885
+876 0
+cfn=<built-in method builtins.len>
+calls=1 0
+876 0
+cfn=<built-in method builtins.isinstance>
+calls=1 0
+876 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=__init__
+calls=1 223
+876 0
+cfl=/usr/lib/python3.6/sre_parse.py
+cfn=get
+calls=2 253
+876 0
+
+fl=/usr/lib/python3.6/enum.py
+fn=__call__
+267 0
+cfl=/usr/lib/python3.6/enum.py
+cfn=__new__
+calls=42 517
+267 0
+
+fl=/usr/lib/python3.6/enum.py
+fn=__new__
+517 0
+
+fl=/usr/lib/python3.6/enum.py
+fn=value
+599 0
+
+fl=/usr/lib/python3.6/enum.py
+fn=__and__
+803 0
+cfn=<built-in method builtins.isinstance>
+calls=4 0
+803 0
+cfl=/usr/lib/python3.6/enum.py
+cfn=__call__
+calls=8 267
+803 0
+
+fl=/usr/lib/python3.6/types.py
+fn=__get__
+135 0
+cfl=/usr/lib/python3.6/enum.py
+cfn=value
+calls=864 599
+135 0
+
+fl=/usr/lib/python3.6/weakref.py
+fn=__init__
+526 0
+cfn=<built-in method builtins.next>
+calls=2 0
+526 0
+
+fl=/usr/lib/python3.6/os.py
+fn=__getitem__
+664 2
+cfl=/usr/lib/python3.6/os.py
+cfn=encode
+calls=594 742
+664 0
+
+fl=/usr/lib/python3.6/os.py
+fn=encode
+742 0
+cfn=<built-in method builtins.isinstance>
+calls=594 0
+742 0
+cfn=<method 'encode' of 'str' objects>
+calls=594 0
+742 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=_get_sep
+41 0
+cfn=<built-in method builtins.isinstance>
+calls=1217 0
+41 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=normcase
+52 0
+cfn=<built-in method posix.fspath>
+calls=2 0
+52 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+52 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=join
+75 2
+cfn=<built-in method posix.fspath>
+calls=618 0
+75 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=_get_sep
+calls=618 41
+75 0
+cfn=<method 'startswith' of 'str' objects>
+calls=1804 0
+75 0
+cfn=<method 'endswith' of 'str' objects>
+calls=1804 0
+75 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=splitext
+121 0
+cfn=<built-in method posix.fspath>
+calls=2 0
+121 0
+cfl=/usr/lib/python3.6/genericpath.py
+cfn=_splitext
+calls=2 117
+121 0
+cfn=<built-in method builtins.isinstance>
+calls=2 0
+121 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=basename
+144 0
+cfn=<method 'rfind' of 'str' objects>
+calls=2 0
+144 0
+cfn=<built-in method posix.fspath>
+calls=2 0
+144 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=_get_sep
+calls=2 41
+144 0
+
+fl=/usr/lib/python3.6/posixpath.py
+fn=dirname
+154 1
+cfn=<method 'rfind' of 'str' objects>
+calls=597 0
+154 0
+cfn=<built-in method posix.fspath>
+calls=597 0
+154 0
+cfl=/usr/lib/python3.6/posixpath.py
+cfn=_get_sep
+calls=597 41
+154 0
+cfn=<method 'rstrip' of 'str' objects>
+calls=597 0
+154 0
+cfn=<built-in method builtins.len>
+calls=597 0
+154 0
+
+fl=/usr/lib/python3.6/genericpath.py
+fn=exists
+16 0
+cfn=<built-in method posix.stat>
+calls=616 0
+16 4
+
+fl=/usr/lib/python3.6/genericpath.py
+fn=_splitext
+117 0
+cfn=<method 'rfind' of 'str' objects>
+calls=4 0
+117 0
+
+fl=/usr/lib/python3.6/_bootlocale.py
+fn=getpreferredencoding
+23 0
+cfn=<built-in method _locale.nl_langinfo>
+calls=1 0
+23 0
+
+fl=/usr/lib/python3.6/_collections_abc.py
+fn=get
+657 0
+cfl=/usr/lib/python3.6/os.py
+cfn=__getitem__
+calls=594 664
+657 2
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+fn=get_version
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+cfn=get_main_version
+calls=1 42
+18 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+cfn=get_complete_version
+calls=1 49
+18 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+fn=<genexpr>
+46 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+fn=get_main_version
+42 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+cfn=get_complete_version
+calls=1 49
+42 0
+cfn=<method 'join' of 'str' objects>
+calls=1 0
+42 0
+
+fl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/version.py
+fn=get_complete_version
+49 0
+cfl=<frozen importlib._bootstrap>
+cfn=_handle_fromlist
+calls=1 997
+49 0
+cfn=<built-in method builtins.len>
+calls=1 0
+49 0
+
+fl=/usr/lib/python3.6/codecs.py
+fn=__init__
+259 0
+
+fl=/usr/lib/python3.6/codecs.py
+fn=__init__
+308 0
+cfl=/usr/lib/python3.6/codecs.py
+cfn=__init__
+calls=13 259
+308 0
+
+fl=/usr/lib/python3.6/codecs.py
+fn=decode
+318 0
+cfn=<built-in method _codecs.utf_8_decode>
+calls=45 0
+318 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_validate_bytecode_header
+430 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_r_long
+calls=6 52
+430 0
+cfn=<built-in method builtins.len>
+calls=6 0
+430 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_compile_bytecode
+485 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=3 222
+485 0
+cfn=<built-in method marshal.loads>
+calls=3 0
+485 0
+cfn=<built-in method _imp._fix_co_filename>
+calls=3 0
+485 0
+cfn=<built-in method builtins.isinstance>
+calls=3 0
+485 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=decode_source
+507 0
+cfl=/usr/lib/python3.6/tokenize.py
+cfn=detect_encoding
+calls=4 355
+507 0
+cfn=<method 'decode' of '_io.IncrementalNewlineDecoder' objects>
+calls=4 0
+507 0
+cfn=<method 'decode' of 'bytes' objects>
+calls=4 0
+507 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=spec_from_file_location
+524 0
+cfn=<built-in method posix.fspath>
+calls=3 0
+524 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=3 369
+524 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=create_module
+669 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=exec_module
+672 0
+cfl=<frozen importlib._bootstrap>
+cfn=_call_with_frames_removed
+calls=3 211
+672 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_code
+calls=3 743
+672 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_source
+725 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=decode_source
+calls=4 507
+725 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_check_name_wrapper
+calls=4 393
+725 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_data
+calls=4 830
+725 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_code
+743 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=3 222
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=cache_from_source
+calls=3 263
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_check_name_wrapper
+calls=3 393
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=path_stats
+calls=3 840
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_data
+calls=3 830
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_validate_bytecode_header
+calls=3 430
+743 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_compile_bytecode
+calls=3 485
+743 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=__init__
+800 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_filename
+825 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=get_data
+830 0
+cfn=<method 'read' of '_io.FileIO' objects>
+calls=7 0
+830 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=path_stats
+840 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=3 75
+840 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_hooks
+1067 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=path_hook_for_FileFinder
+calls=2 1322
+1067 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_importer_cache
+1080 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_hooks
+calls=2 1067
+1080 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_spec
+1117 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_importer_cache
+calls=4 1080
+1117 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=find_spec
+calls=4 1233
+1117 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=1 369
+1117 0
+cfn=<built-in method builtins.hasattr>
+calls=4 0
+1117 0
+cfn=<built-in method builtins.isinstance>
+calls=4 0
+1117 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=find_spec
+1149 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_spec
+calls=4 1117
+1149 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=<genexpr>
+1202 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=__init__
+1196 0
+cfn=<method 'extend' of 'list' objects>
+calls=6 0
+1196 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_spec
+1228 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=__init__
+calls=3 800
+1228 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=spec_from_file_location
+calls=3 524
+1228 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=find_spec
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_fill_cache
+calls=2 1281
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=4 75
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_relax_case
+calls=4 41
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_join
+calls=18 57
+1233 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=13 222
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_isfile
+calls=6 94
+1233 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_spec
+calls=3 1228
+1233 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=4 0
+1233 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_fill_cache
+1281 0
+cfn=<built-in method posix.listdir>
+calls=2 0
+1281 0
+cfn=<method 'startswith' of 'str' objects>
+calls=4 0
+1281 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=path_hook_for_FileFinder
+1322 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_isdir
+calls=2 99
+1322 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=__init__
+calls=2 1196
+1322 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+307 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+311 0
+
+fl=<frozen importlib._bootstrap>
+fn=<genexpr>
+321 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+318 0
+cfn=<built-in method builtins.any>
+calls=3 0
+318 0
+cfl=<frozen importlib._bootstrap>
+cfn=_verbose_message
+calls=3 222
+318 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_r_long
+52 0
+cfn=<built-in method from_bytes>
+calls=6 0
+52 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+369 0
+
+fl=<frozen importlib._bootstrap>
+fn=cached
+403 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_get_cached
+calls=3 361
+403 0
+
+fl=<frozen importlib._bootstrap>
+fn=parent
+416 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=2 0
+416 0
+
+fl=<frozen importlib._bootstrap>
+fn=has_location
+424 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=<listcomp>
+59 0
+cfn=<method 'rstrip' of 'str' objects>
+calls=54 0
+59 0
+
+fl=<frozen importlib._bootstrap>
+fn=_init_module_attrs
+504 0
+cfl=<frozen importlib._bootstrap>
+cfn=parent
+calls=3 416
+504 0
+cfl=<frozen importlib._bootstrap>
+cfn=has_location
+calls=3 424
+504 0
+cfl=<frozen importlib._bootstrap>
+cfn=cached
+calls=6 403
+504 0
+cfn=<built-in method builtins.getattr>
+calls=18 0
+504 0
+
+fl=<frozen importlib._bootstrap>
+fn=module_from_spec
+564 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=create_module
+calls=3 669
+564 0
+cfl=<frozen importlib._bootstrap>
+cfn=_new_module
+calls=3 35
+564 0
+cfl=<frozen importlib._bootstrap>
+cfn=_init_module_attrs
+calls=3 504
+564 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+564 0
+
+fl=<frozen importlib._bootstrap>
+fn=_load_unlocked
+651 0
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=3 318
+651 0
+cfl=<frozen importlib._bootstrap>
+cfn=module_from_spec
+calls=3 564
+651 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=3 307
+651 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=3 311
+651 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=exec_module
+calls=3 672
+651 0
+cfn=<built-in method builtins.hasattr>
+calls=3 0
+651 0
+
+fl=<frozen importlib._bootstrap>
+fn=find_spec
+707 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_join
+57 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=<listcomp>
+calls=24 59
+57 0
+cfn=<method 'join' of 'str' objects>
+calls=24 0
+57 0
+
+fl=<frozen importlib._bootstrap>
+fn=find_spec
+780 0
+cfn=<built-in method _imp.is_frozen>
+calls=4 0
+780 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_split
+63 0
+cfn=<built-in method builtins.len>
+calls=6 0
+63 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=6 0
+63 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+843 0
+cfn=<built-in method _imp.acquire_lock>
+calls=15 0
+843 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+847 0
+cfn=<built-in method _imp.release_lock>
+calls=15 0
+847 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_stat
+75 0
+cfn=<built-in method posix.stat>
+calls=15 0
+75 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_spec_legacy
+861 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/django/utils/six.py
+cfn=find_module
+calls=1 182
+861 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_spec
+870 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_spec_legacy
+calls=1 861
+870 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/urllib3/packages/six.py
+cfn=find_spec
+calls=1 190
+870 0
+cfl=/home/fors/PycharmProjects/gf2/env/lib/python3.6/site-packages/six.py
+cfn=find_spec
+calls=1 194
+870 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=15 843
+870 0
+cfl=<frozen importlib._bootstrap>
+cfn=find_spec
+calls=4 707
+870 0
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=15 847
+870 0
+cfl=<frozen importlib._bootstrap>
+cfn=find_spec
+calls=4 780
+870 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=find_spec
+calls=4 1149
+870 0
+
+fl=<frozen importlib._bootstrap>
+fn=_sanity_check
+917 0
+cfn=<built-in method builtins.isinstance>
+calls=7 0
+917 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_and_load_unlocked
+936 0
+cfn=<method 'format' of 'str' objects>
+calls=1 0
+936 0
+cfl=<frozen importlib._bootstrap>
+cfn=_call_with_frames_removed
+calls=2 211
+936 0
+cfl=<frozen importlib._bootstrap>
+cfn=_load_unlocked
+calls=3 651
+936 0
+cfn=<built-in method builtins.setattr>
+calls=3 0
+936 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=8 0
+936 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_spec
+calls=4 870
+936 0
+
+fl=<frozen importlib._bootstrap>
+fn=_find_and_load
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load_unlocked
+calls=5 936
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=7 143
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=__enter__
+calls=7 147
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=_lock_unlock_module
+calls=2 194
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=__exit__
+calls=7 151
+966 0
+cfl=<frozen importlib._bootstrap>
+cfn=cb
+calls=9 176
+966 0
+cfn=<method 'get' of 'dict' objects>
+calls=7 0
+966 0
+
+fl=<frozen importlib._bootstrap>
+fn=_gcd_import
+982 0
+cfl=<frozen importlib._bootstrap>
+cfn=_sanity_check
+calls=7 917
+982 0
+cfl=<frozen importlib._bootstrap>
+cfn=_find_and_load
+calls=7 966
+982 1
+
+fl=<frozen importlib._bootstrap>
+fn=_handle_fromlist
+997 0
+cfn=<built-in method builtins.hasattr>
+calls=14 0
+997 0
+cfn=<built-in method builtins.isinstance>
+calls=6 0
+997 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_is_mode_type
+85 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_stat
+calls=8 75
+85 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_isfile
+94 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_is_mode_type
+calls=6 85
+94 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_path_isdir
+99 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_is_mode_type
+calls=2 85
+99 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=cache_from_source
+263 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_join
+calls=6 57
+263 0
+cfn=<method 'join' of 'str' objects>
+calls=6 0
+263 0
+cfn=<built-in method posix.fspath>
+calls=6 0
+263 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=_path_split
+calls=6 63
+263 0
+cfn=<method 'rpartition' of 'str' objects>
+calls=6 0
+263 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_get_cached
+361 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=cache_from_source
+calls=3 263
+361 0
+cfn=<method 'endswith' of 'str' objects>
+calls=3 0
+361 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_check_name_wrapper
+393 0
+cfl=<frozen importlib._bootstrap_external>
+cfn=get_filename
+calls=7 825
+393 0
+
+fl=<frozen importlib._bootstrap>
+fn=_new_module
+35 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+58 0
+cfn=<built-in method _thread.allocate_lock>
+calls=18 0
+58 0
+
+fl=<frozen importlib._bootstrap>
+fn=acquire
+78 0
+cfn=<built-in method _thread.get_ident>
+calls=9 0
+78 0
+
+fl=<frozen importlib._bootstrap>
+fn=release
+103 0
+cfn=<built-in method _thread.get_ident>
+calls=9 0
+103 0
+
+fl=<frozen importlib._bootstrap_external>
+fn=_relax_case
+41 0
+
+fl=<frozen importlib._bootstrap>
+fn=__init__
+143 0
+
+fl=<frozen importlib._bootstrap>
+fn=__enter__
+147 0
+cfl=<frozen importlib._bootstrap>
+cfn=_get_module_lock
+calls=7 157
+147 0
+cfl=<frozen importlib._bootstrap>
+cfn=acquire
+calls=7 78
+147 0
+
+fl=<frozen importlib._bootstrap>
+fn=__exit__
+151 0
+cfl=<frozen importlib._bootstrap>
+cfn=release
+calls=7 103
+151 0
+
+fl=<frozen importlib._bootstrap>
+fn=cb
+176 0
+cfn=<built-in method _imp.acquire_lock>
+calls=9 0
+176 0
+cfn=<built-in method _imp.release_lock>
+calls=9 0
+176 0
+cfn=<method 'get' of 'dict' objects>
+calls=9 0
+176 0
+
+fl=<frozen importlib._bootstrap>
+fn=_get_module_lock
+157 0
+cfn=<built-in method _imp.acquire_lock>
+calls=9 0
+157 0
+cfl=<frozen importlib._bootstrap>
+cfn=__init__
+calls=9 58
+157 0
+cfn=<built-in method _imp.release_lock>
+calls=9 0
+157 0
+
+fl=<frozen importlib._bootstrap>
+fn=_lock_unlock_module
+194 0
+cfl=<frozen importlib._bootstrap>
+cfn=_get_module_lock
+calls=2 157
+194 0
+cfl=<frozen importlib._bootstrap>
+cfn=acquire
+calls=2 78
+194 0
+cfl=<frozen importlib._bootstrap>
+cfn=release
+calls=2 103
+194 0
+
+fl=<frozen importlib._bootstrap>
+fn=_call_with_frames_removed
+211 0
+cfn=<built-in method builtins.exec>
+calls=3 0
+211 0
+cfl=<frozen importlib._bootstrap>
+cfn=_gcd_import
+calls=2 982
+211 0
+
+fl=<frozen importlib._bootstrap>
+fn=_verbose_message
+222 0
+

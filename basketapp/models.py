@@ -13,6 +13,18 @@ class Basket(models.Model):
     def get_items_cached(self):
         return self.user.basket.select_related()
 
+    def get_items(user):
+        return Basket.objects.filter(user=user)
+
+
+    @staticmethod
+    def get_item(pk):
+        return Basket.objects.filter(pk=pk).first()
+
+    @staticmethod
+    def get_product(user,product):
+        return Basket.objects.filter(user=user,product=product).first()
+
     def get_total_quantity(self):
         _items = self.get_items_cached
         return sum(list(map(lambda x: x.quantity, _items)))
