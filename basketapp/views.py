@@ -1,3 +1,4 @@
+from django.db.models import F
 from django.shortcuts import render, HttpResponseRedirect, get_object_or_404
 from basketapp.models import Basket
 from mainapp.models import Product
@@ -28,10 +29,9 @@ def basket_add(request, pk):
         return HttpResponseRedirect(reverse('products:product', args=[pk]))
     
     product = get_object_or_404(Product, pk=pk)
-    old_basket_item = Basket.objects.filter(user=request.user, product=product)
-    
+    old_basket_item = Basket.get_product(user=request.user, product=product)
     if old_basket_item:
-        old_basket_item[0].quantity += 1
+        old_basket_item[0].quantity = F('quantity') + 1
         old_basket_item[0].save()
     else:
         new_basket_item = Basket(user=request.user, product=product)
